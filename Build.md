@@ -1,4 +1,4 @@
-##Tutorials
+# Tutorials
 
 [Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity or Libra by making your own crypto-collectibles game
 
@@ -15,7 +15,7 @@
 [ERC721 + Vue.js in under 10 minutes](https://medium.com/openberry/erc721-vue-js-cryptokitties-like-dapp-in-under-10-minutes-5115efc9e0bb) - useful NFT and front-end walkthrough (but watch for deprecations) by Sam Benemerito
 
 
-##Repositories and IDEs
+# Repositories and IDEs
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
 
@@ -28,9 +28,9 @@
 [Chainlink Docs](https://docs.chain.link/docs) - example codebases and projects, using offchain data, random number generation, and external adapters
 
 
-##Security and Audit Tools
+# Security and Audit Tools
 
-{OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) - rundowns of past audits conducted by OpenZeppelin
+[OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) - rundowns of past audits conducted by OpenZeppelin
 
 [Dev Blog Security Recommendations](https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/) - periodic security updates from Consensys as to best practices 
 
