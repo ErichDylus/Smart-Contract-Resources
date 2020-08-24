@@ -1,3 +1,5 @@
 # Smart-Contract-Resources
 
-Development resources, tutorials, legal considerations, and scholarship.
+- [Tutorials](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
+- [Legal considerations](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Legal.md)
+- Scholarship
