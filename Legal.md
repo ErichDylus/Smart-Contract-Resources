@@ -10,9 +10,9 @@ Smart/Ricardian contracts and traditional, written contracts may be used in tand
 The imperative departure from traditional contracts is that smart contracts are agreements in digital form that are self-executing and self-enforcing to the extent encoded; importantly, Traditional legal enforcement of rights and obligations of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Including a provision allowing for liquidated damages or mutual amendment in the case of unintended software vulnerabilities or failures either in your principal agreement or in your audit contract may be advisable to the extent possible. 
 
 
-"Code is Law" v. Code Deference 
+## "Code is Law" v. Code Deference 
 
-Parties may want to eschew the Ricardian, unqualified ‘code is law’ approach in their contracting, and instead document the agreed level of deference to code's execution, perhaps adapting a form similar to the following: Simple Code Deference Agreement
+Parties may want to eschew the Ricardian, unqualified ‘code is law’ approach in their contracting, and instead document the agreed level of deference to code's execution, perhaps adapting a form similar to the following: [Simple Code Deference Agreement](https://github.com/ErichDylus/SCoDA-Simple-Code-Deference-Agreement-)
 
 In this instance, parties are agreeing that, except in certain narrow express circumstances, they will defer to (or, refrain from legal dispute over) the results of the underlying smart contract's operation.
 
@@ -33,7 +33,7 @@ For crypto- or blockchain-based entities, it is imperative to consult local coun
 
 • The Bank Secrecy Act, the Patriot Act, and other Anti-Money Laundering and Money Transmission laws and regulations are imperative US laws to follow in remittance of cryptocurrencies and/or fiat currencies through public blockchain technologies and in determining KYC requirements.
 
-• 0x Legal Wiki and Library provides useful US law resources especially applicable to exchanges and DEXs, but also for OFAC and AML concerns 
+• [0x Legal Wiki and Library](https://0x.org/wiki#Legal-Wiki) provides useful US law resources especially applicable to exchanges and DEXs, but also for OFAC and AML concerns 
 
 •  New York’s Department of Financial Services established a stringent licensing rule (the “BitLicense”) for virtual currency-based businesses. 
 
@@ -43,7 +43,7 @@ For crypto- or blockchain-based entities, it is imperative to consult local coun
 
 • GDPR: extraterritoriality (the operation of laws outside the boundary of a state or country) may affect an international company that collects data on EU citizens - it is under the same legal obligation it would be if  headquartered in the EU, even without presence there. Generally, Cravath, Swaine & Moore LLP recommends "four guiding principles for entities hosting GDPR‑compliant blockchains: Use a private, permissioned blockchain; avoid, if possible, the storing of personal data on the blockchain; establish a detailed governance framework; and employ innovative solutions to data protection problems." While ongoing security and privacy implementations may invalidate some of these points, they should not be ignored.
 
-The UK Jurisdiction Task Force has released a statement on the legal treatment of cryptoassets and smart contracts, more clearly defining the UK position on enforceability and classifications. 
+The UK Jurisdiction Task Force has released a [statement](https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/6.6056_JO_Cryptocurrencies_Statement_FINAL_WEB_111119-1.pdf) on the legal treatment of cryptoassets and smart contracts, more clearly defining the UK position on enforceability and classifications. 
 
 The statement confirms that under English law:
 
@@ -97,8 +97,8 @@ JAMS, a member of the Accord Project, is the first institutional ADR provider to
 
 
 ## DAOs and Regulatory Compliance
-Decentralized Autonomous Organizations are a topic under heavy research and development. DAOs are decentralized, "headless" entities which rely on smart contracts to automate certain operations, governance, and behavior. This reduces overhead, permits greater organizational transparency, and tightens internal controls. DAOs effectively decentralize identifying aspects of traditional entities such as jurisdiction of organization, principal place of business, and raise novel concerns in liability apportionment-- as such, regulatory compliance of DAOs, especially in the U.S., is tricky. LexDAO is a legal engineer club building web3.0 legal assets and code, such as escrow and dispute resolution, powered by Ethereum transactional scripts via an Aragon DAO. ZeroLaw LLC is undertaking to refine a model DAO charter for DAOs wishing to function as unincorporated associations. 
+Decentralized Autonomous Organizations ("[DAO](https://medium.com/@OpenLawOfficial/the-era-of-legally-compliant-daos-491edf88fed0)s") are decentralized, "headless" entities which rely on smart contracts to automate certain operations, governance, and behavior. This reduces overhead, permits greater organizational transparency, and tightens internal controls. DAOs effectively decentralize identifying aspects of traditional entities such as jurisdiction of organization, principal place of business, and raise novel concerns in liability apportionment-- as such, regulatory compliance of DAOs, especially in the U.S., is tricky. LexDAO is a legal engineer club building web3.0 legal assets and code, such as escrow and dispute resolution, powered by Ethereum transactional scripts via an Aragon DAO. ZeroLaw LLC is undertaking to refine a model [DAO charter](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md) for DAOs wishing to function as unincorporated associations. 
 
-The LAO, envisioning a more broadly applicable Limited Liability Autonomous Organization, seeks to lessen "meatspace" (or human, non-decentralized actor/input/output) liability through the use of Ricardian Contracts in apportioning capital. The LAO and OpenLaw are continually developing and progressing the taxonomy and risks of such structures, setting forth autonomous entity formation options such as the Decentralized Automated Corporation (DAC), Limited Liability Autonomous Company (LLAC), and the Limited Autonomous Cooperative (LAOP).
+The [LAO](https://medium.com/openlawofficial/the-lao-a-for-profit-limited-liability-autonomous-organization-9eae89c9669c), envisioning a more broadly applicable Limited Liability Autonomous Organization, seeks to lessen "meatspace" (or human, non-decentralized actor/input/output) liability through the use of Ricardian Contracts in apportioning capital. The LAO and OpenLaw are continually developing and progressing the [taxonomy](https://medium.com/@thelaoofficial/a-taxonomy-for-laos-making-sense-of-the-emerging-lao-ecosystem-1122b035fe1a) and risks of such structures, setting forth autonomous entity formation options such as the Decentralized Automated Corporation (DAC), Limited Liability Autonomous Company (LLAC), and the Limited Autonomous Cooperative (LAOP).
 
 Smart contracts and DAOs present several advantages and possibilities for built-in regulatory compliance, as noted by the U.S. Commodities Futures Trading Commission's LabCFTC: smart contract collateral or proceeds cannot be sold to a non-Eligible Contract Participant (without clear digital forensic evidence on the blockchain), the contract may be coded so the transaction may not occur until the mandated period has passed, and it may incorporate automated reporting of required data or tax payments at pre-determined intervals.
