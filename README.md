@@ -1,4 +1,4 @@
-# Smart-Contract-Resources
+# Smart Contract Development, Legal, and Academic Resources
 
 - [Tutorials](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Build.md)
 - [Legal considerations](https://github.com/ErichDylus/Smart-Contract-Resources/blob/master/Legal.md)
