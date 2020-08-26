@@ -1,3 +1,5 @@
+# Whitepapers
+
 [Bitcoin](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto
 
 [Ethereum](https://whitepaperdatabase.com/ethereum-eth-whitepaper/) - Vitalik Buterin
@@ -39,3 +41,5 @@
 [Aragon](https://github.com/aragon/whitepaper)
 
 [DeFi Money Market](https://defimoneymarket.com/DMM-Ecosystem.pdf)
+
+[Centrifuge](https://staticw.centrifuge.io/assets/centrifuge_os_protocol_paper.pdf)
