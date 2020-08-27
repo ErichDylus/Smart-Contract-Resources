@@ -1,14 +1,14 @@
 # Tutorials
 
-[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity or Libra by making your own crypto-collectibles game
+[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity (or Libra) by making your own crypto-collectibles game. Recommended intro tutorial.
 
 [Ethernaut](https://ethernaut.openzeppelin.com/) - a Web3/Solidity based war game, played in the Ethereum Virtual Machine, where each level is a smart contract that needs to be 'hacked'
 
-[OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) - a comprehensive guides for each step of development on Ethereum
+[OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) - comprehensive guides for each step of development on Ethereum
 
 [Guides to Ethereum Programming for Beginners](https://consensys.net/developers/guides-to-ethereum-development/) - a wide array of guides by Consensys
 
-[Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps
+[Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
 
 [How to Learn Solidity](https://blockgeeks.com/guides/solidity/) - a step by step tutorial on a demo Solidity dApp by Ryan Molecke
 
