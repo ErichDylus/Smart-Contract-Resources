@@ -59,3 +59,5 @@
 [Defining Decentralization for Law](https://medium.com/@lex_node/defining-decentralization-for-law-58ca54e18b2a) - Shapiro, 2020
 
 [Space Governance 3.0](https://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?article=2489&context=gjicl) - Israel, 2020
+
+[8 Steps to Decentralization](https://medium.com/venture-dao/8-steps-to-decentralization-1822806e2d54) - VentureDAO, 2020
