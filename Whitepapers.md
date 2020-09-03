@@ -43,3 +43,5 @@
 [DeFi Money Market](https://defimoneymarket.com/DMM-Ecosystem.pdf)
 
 [Centrifuge](https://staticw.centrifuge.io/assets/centrifuge_os_protocol_paper.pdf)
+
+[iearn finance gitbook](https://github.com/iearn-finance/docs)
