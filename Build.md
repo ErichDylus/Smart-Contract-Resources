@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials and Courses
 
 [Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity (or Libra) by making your own crypto-collectibles game. Recommended intro tutorial.
 
@@ -9,6 +9,8 @@
 [Guides to Ethereum Programming for Beginners](https://consensys.net/developers/guides-to-ethereum-development/) - a wide array of guides by Consensys
 
 [Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
+
+[Zastrin Ethereum Courses] - building a simple ethereum dApp, web3 and other framework. Free and paid
 
 [How to Learn Solidity](https://blockgeeks.com/guides/solidity/) - a step by step tutorial on a demo Solidity dApp by Ryan Molecke
 
