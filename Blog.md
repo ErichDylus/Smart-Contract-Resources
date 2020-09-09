@@ -1,4 +1,6 @@
-# Small Business Savings with Smart Contracts
+# Blog Posts
+
+## Small Business Savings with Smart Contracts
 January 3, 2020
 
 Enterprises of all sizes stand to benefit from the immense savings and security of deterministic Ricardian agreements, smart contract automation of various tasks and areas of trust, increased liquidity through tokenization, and easy monetization of their data. However, small businesses may capture the greatest relative benefit, as they codify away previously expensive areas of third party trust and contract enforcement. Small businesses are cash and time-strapped, and often must prioritize between improving ongoing operations, pitching new business, and chasing delinquent bills or deliveries. They’re unlikely to take the time and money to rectify the many frictions of current agreements (such as laborious debt collection or a prohibitively costly small claims court action), and would benefit highly from deterministic agreements and predictable, ensured payments that remove these frictions. 
@@ -9,7 +11,7 @@ Through Ricardian contracts, small businesses may automate some of these chainsa
 
 Once small businesses incorporate basic smart contract/web3 infrastructure, doors to other opportunities in decentralized finance and governance open. For example, in some applicable industries (i.e. high value, low count inventory or prototyped products), small businesses may look to vastly increase their liquidity by tokenizing inventory, assets, or even intellectual property. For entities that are sensitive to commodity or other raw material price fluctuations, the emergence of synthetic derivatives present simple futures/swaps as a low barrier-to-entry hedge for such supply prices, provided the UX for such instruments is necessarily simple and well-audited. The size and nature of small businesses make it possible that some outfits would be exempt from some onerous regulatory requirements for the above (for example, security reporting for tokenizations theorized above may be unnecessary for those entities below a threshold amount of value). The CFTC/SEC would do well to provide guidance in this arena as adoption increases, and the Small Business Administration and the Chamber of Digital Commerce could unlock immense opportunity together in exploring the benefits of decentralized infrastructure for cash-and-time-strapped entrepreneurs and small businesses.
 
-# Enterprise Public Chain Integration Developments
+## Enterprise Public Chain Integration Developments
 June 10, 2019
 
 Enterprises are increasing their attention towards the previously unattainable trust-minimization, efficiency, and security of integrating their applications with public blockchains such as Ethereum. Until recently, privacy issues, scaling and transaction cost, and the lack of an emergent, inclusive onboarding framework have made such institutions reluctant to take the leap to trustlessness. Here are three recent developments that are especially encouraging to larger institutions seeking to integrate public blockchain and smart contracts: 
@@ -26,7 +28,7 @@ Pilot/Production Framework Partners: Kaleido integrates Azure
 
 Consensys’ enterprise blockchain spoke, Kaleido, seeks to provide enterprise blockchains with a “point and click” simplicity from concept to deployment. By recently adding Microsoft Azure to its supported cloud infrastructure, alongside their existing support of Amazon's AWS, Kaleido now supports 80% of current public cloud infrastructure. While Kaleido presents enterprises with an Ethereum-based private blockchain solution, in the future such onboarded enterprises are more likely to ultimately integrate or tether to the Ethereum public chain and other public chains, commonly hypothesized as similar to enterprises’ historical use of intranets before internet integration.  New partnerships with Truffle and Metamask seek to further speed up development, and PegaSys Pantheon provides a Java-based enterprise version of the Ethereum client for systems incorporation. Further, Kaleido’s native integration of OpenLaw will make the automation of smart legal agreements an attractive feature for enterprise clients seeking documentary efficiencies in their ultimate public chain integration plan.
 
-# Smart Escrow Contracts
+## Smart Escrow Contracts
 March 14, 2019
 
 The traditional Escrow Agreement: an arrangement in which the solution to value transfer between two or more adverse, transacting parties is rectified by placing payment, signatures, and/or other conditions or actions in the control of an ostensibly neutral third party, to be disbursed upon the satisfaction of all required “conditions precedent” to a transaction’s closing. Few agreements present such an imbalance of complexity versus cost and are as ripe for disruption as the simple escrow agreement. Traditional escrow agreements tend to suffer from such disadvantages, inefficiencies, and issues as:
