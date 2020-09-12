@@ -61,3 +61,5 @@
 [Space Governance 3.0](https://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?article=2489&context=gjicl) - Israel, 2020
 
 [8 Steps to Decentralization](https://medium.com/venture-dao/8-steps-to-decentralization-1822806e2d54) - VentureDAO, 2020
+
+[Dispute Resolution: the Kleros Handbook to Decentralized Justice](https://kleros.io/en/book/) - Ast, George et al, 2020
