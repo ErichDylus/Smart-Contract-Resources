@@ -45,3 +45,5 @@
 [Centrifuge](https://staticw.centrifuge.io/assets/centrifuge_os_protocol_paper.pdf)
 
 [iearn finance gitbook](https://github.com/iearn-finance/docs)
+
+[API3](https://drive.google.com/file/d/1vcfs5UCZf_X10_NW8F5NmjLS2r1hSysO/view) - Benligiray, Milic, and Vanttinen
