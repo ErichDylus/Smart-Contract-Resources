@@ -20,12 +20,9 @@ In this instance, parties are agreeing that, except in certain narrow express ci
 For crypto- or blockchain-based entities, it is imperative to consult local counsel for the jurisdiction or jurisdictions in which you are based, conducting business, soliciting funds or usage, the governing law of any underlying agreements, and any other pertinent law - especially so if any type of coin or token offering is contemplated. Here's a non-exhaustive list of example laws, regulations, and other legal constructs to consider:
 
 • The Uniform Commercial Code ("UCC"), Uniform Electronic Transactions Act ("UETA"), and Electronic Signatures in Global and National Commerce Act ( the "E-Sign Act") generally govern American digital commerce agreements, absent a treaty or federal preemption. 
-
-     - UCC Exclusions under E-Sign Act and UETA: all sections except 1-107 (Waiver of Renunciation of Claim or Right After Breach), 1-206, (Statute of Frauds for Kinds of Personal Property Not Otherwise Covered), Article 2 (Sales) and Article 2A (Leases)
-
-     - UCC Article 9 security agreements are excluded, but Article 9 already allows for "electronic records" and electronic "authentication." Article 3 negotiable instruments are excluded, but safe harbor rule allows for electronic "transferable records" that are unique and identifiable, with a single authoritative copy identifying controller.
-
-    - the UCC has certain "possession" and "control" provisions that have so far been untested in the context of private keys and "ownable" smart contracts
+   UCC Exclusions under E-Sign Act and UETA: all sections except 1-107 (Waiver of Renunciation of Claim or Right After Breach), 1-206, (Statute of Frauds for Kinds of Personal Property Not Otherwise Covered), Article 2 (Sales) and Article 2A (Leases)
+   UCC Article 9 security agreements are excluded, but Article 9 already allows for "electronic records" and electronic "authentication." Article 3 negotiable instruments are excluded, but safe harbor rule allows for electronic "transferable records" that are unique and identifiable, with a single authoritative copy identifying controller.
+   UCC has certain "possession" and "control" provisions that have so far been untested in the context of private keys and "ownable" smart contracts
 
 • The US's 21st Century IDEA Act (Integrated Digital Experience Act) establishes deadlines for federal government agencies to provide mobile and accessible versions of their websites, digital forms and services, and electronic signatures, greatly streamlining potential integration into smart contract processes.
 
