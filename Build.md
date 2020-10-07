@@ -10,6 +10,8 @@
 
 [Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
 
+[KnowEthereum](https://knowethereum.com/) - curated resources for the Ethereum ecosystem
+
 [Zastrin Ethereum Courses](https://www.zastrin.com/) - building a simple ethereum dApp, web3 and other framework. Free and paid
 
 [How to Learn Solidity](https://blockgeeks.com/guides/solidity/) - a step by step tutorial on a demo Solidity dApp by Ryan Molecke
