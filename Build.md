@@ -45,6 +45,8 @@
 
 [Dev Blog Security Recommendations](https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/) - periodic security updates from Consensys as to best practices 
 
+[Slither](https://github.com/crytic/slither) - Solidity static analysis framework -- runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
+
 [Secure Dev Workflow](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/workflow.md#ask-for-help) - workflow for solidity smart contract security by Crytic
 
 [MythX Security Analysis Tool](https://github.com/dmuhs/mythx-cli) - security analysis API to create purpose-built security tools for smart contract developers
