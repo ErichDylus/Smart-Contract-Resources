@@ -20,8 +20,6 @@
 
 [ERC721 + Vue.js in under 10 minutes](https://medium.com/openberry/erc721-vue-js-cryptokitties-like-dapp-in-under-10-minutes-5115efc9e0bb) - useful NFT and front-end walkthrough (but watch for deprecations) by Sam Benemerito
 
-[Chainlink Engineering Tutorials](https://www.youtube.com/playlist?list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J) - YouTube playlist of Chainlink engineering/programming walkthroughs
-
 [Build a Basic App with Solidity](https://www.dappuniversity.com/articles/blockchain-app-tutorial) - dApp University tutorial for a solidity "to-do" client-side dapp
 
 [Gentler Introduction to Programming](https://www.freecodecamp.org/news/a-gentler-introduction-to-programming-1f57383a1b2c/) - beginner's general overview of programming
@@ -33,6 +31,10 @@
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
 
 [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - library of secure, community-vetted solidity contracts
+
+[Hardhat](https://hardhat.org/) - Ethereum IDE including local Solidity and Typescript support, debugging, and numerous plugins
+
+[Remix](https://remix.ethereum.org/) - Ethereum IDE with plugins and debugging
 
 [Ethereum Dev Tools](https://github.com/ConsenSys/ethereum-developer-tools-list) - tools, components, patterns, and platforms for developing applications on Ethereum by Consensys
 
