@@ -81,6 +81,7 @@ When an EU Prospectus is submitted, the PR requires that summaries set out the 1
 
 The Monetary Authority of Singapore issues a Guide to Digital Token Offerings that requires a submitted prospectus, absent one of the outlined exemptions, including a private placement up to a certain threshold number of individuals within a one year period.
 
+Morrison Cohen has relaunched their [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471), which tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
 
 # Digital Signatures and Click-Wrap Transactions
 Courts have already looked upon digital signatures and click-wrap agreements with overwhelming favor, and smart contracts in their simplest form are likely to be viewed as a natural extension. Some examples of favorable statutory precedent are UETA and the E-Sign Act. Questions of a contract's enforceability or whether a contract has actually been executed typically fall within the purview of common law (where applicable) and thus are subject to numerous potential interpretations, especially in instances where jurisdiction is uncertain due to the distributed/decentralized nature of smart contracts.
