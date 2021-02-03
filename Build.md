@@ -26,6 +26,8 @@
 
 [Simple Easy Programming](https://www.tutorialspoint.com/computer_programming/index.htm) - basic programming prerequisites/concepts
 
+[Verify Contract Code on Etherscan](https://medium.com/coinmonks/how-to-verify-and-publish-on-etherscan-52cf25312945)
+
 # Repositories and IDEs
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
