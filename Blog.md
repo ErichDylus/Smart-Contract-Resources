@@ -1,5 +1,22 @@
 # Blog Posts
 
+##Legal Contract Formation in Solidity (work in progress)
+March 15, 2021
+
+Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide additional layers of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. The fundamental underpinnings of contract law present some novel hypos about when, or whether, the formation of a legally recognizable contract, or element thereof, is evidenced by changes in state or other operations on the Ethereum blockchain, especially with common Solidity frameworks. The basic formula for a contract to be formed: Offer + Acceptance + Consideration = Contract.
+• if a participant is able to execute a smart contract through its construction and consideration may be given through the offered interface, this could be deemed an open offer; if the smart contract is sent to a counterparty directly, that smart contract may constitute an offer solely to that counterparty;
+• by signing their private signature to the smart contract, the counterparty may indicate acceptance to the agreement as an analog to commonly accepted electronic signatures; and
+• the element of consideration may be satisfied provided each party interacting in some manner with the smart contract exchanges some form of value.
+Meatspace legal enforcement of rights, obligations, intent, and other aspects of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Contract law and UCC specialists will find much to deliberate on concepts such as whether a “firm offer” can conceivably exist in a time-limited smart contract  be firm in perpetuity as an immutable contract address, or how immutability affects offer revocations, etc. 
+
+###Control/onlyOwner
+###Claimable()
+###DEX limit orders as open offers
+###Moment of Privity (airdrops? Claimed rewards e.g. UNI, AUDIO, BADGER)
+###Gas Costs as Consideration
+###UCC Article 8 Securities Intermediary
+
+
 ## Small Business Savings with Smart Contracts
 January 3, 2020
 
