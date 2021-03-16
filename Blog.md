@@ -7,9 +7,12 @@ Smart/Ricardian contracts and traditional, written contracts may be used in tand
 • if a participant is able to execute a smart contract through its construction and consideration may be given through the offered interface, this could be deemed an open offer; if the smart contract is sent to a counterparty directly, that smart contract may constitute an offer solely to that counterparty;
 • by signing their private signature to the smart contract, the counterparty may indicate acceptance to the agreement as an analog to commonly accepted electronic signatures; and
 • the element of consideration may be satisfied provided each party interacting in some manner with the smart contract exchanges some form of value.
-Meatspace legal enforcement of rights, obligations, intent, and other aspects of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Contract law and UCC specialists will find much to deliberate on concepts such as whether a “firm offer” can conceivably exist in a time-limited smart contract  be firm in perpetuity as an immutable contract address, or how immutability affects offer revocations, etc. 
+Meatspace legal enforcement of rights, obligations, intent, and other aspects of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Contract law and UCC specialists will find much to deliberate on concepts such as whether a “firm offer” can conceivably exist in a time-limited smart contract, be firm in perpetuity as an immutable contract address, or how immutability affects offer revocations, etc. 
 
-###Control/onlyOwner
+##Control/onlyOwner
+'Control' of assets, information, and authoritative copes have broad legal implications. For example, Section 9-105 of the Model UCC deals with the control of electronic chattel paper for purposes of security interest perfection, and Official Comment 3 to Section 9-105 provides that 'control' must be evidenced by a system which evidences the transfer of interests in electronic chattel paper in a manner which 'reliably' (according to general unspecified principles of uniqueness, identifiability and un-alterability) establishes that the secured party is the assignee of the electronic chattel paper, but need not be more stringent than those requirements for physical chattel paper. 
+Given that UCC 9-105(b) hasn't had significant judicial interpretations or regulatory guidance as of the date of this writing, treatment in a blockchain context is hypothetical, but intuitively extrapolated to control of a wallet address, or onlyOwner status for a contract....
+
 ###Claimable()
 ###DEX limit orders as open offers
 ###Moment of Privity (airdrops? Claimed rewards e.g. UNI, AUDIO, BADGER)
