@@ -1,12 +1,15 @@
 # Blog Posts
 
-##Legal Contract Formation in Solidity (work in progress)
-March 15, 2021
+##Legal Contract Formation in Solidity (draft in progress)
+March 18, 2021
 
-Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide additional layers of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. The fundamental underpinnings of contract law present some novel hypos about when, or whether, the formation of a legally recognizable contract, or element thereof, is evidenced by changes in state or other operations on the Ethereum blockchain, especially with common Solidity frameworks. The basic formula for a contract to be formed: Offer + Acceptance + Consideration = Contract.
-• if a participant is able to execute a smart contract through its construction and consideration may be given through the offered interface, this could be deemed an open offer; if the smart contract is sent to a counterparty directly, that smart contract may constitute an offer solely to that counterparty;
-• by signing their private signature to the smart contract, the counterparty may indicate acceptance to the agreement as an analog to commonly accepted electronic signatures; and
-• the element of consideration may be satisfied provided each party interacting in some manner with the smart contract exchanges some form of value.
+Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide additional layers of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. The fundamental underpinnings of contract law present some novel hypos about when, or whether, the formation of a legally recognizable contract, or element thereof, is evidenced by changes in state or other operations on the Ethereum blockchain, especially with common Solidity frameworks. Commercial law has long recognized the ability to form contracts even in the absence of "Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for salealthough the writings of the parties do not otherwise establish a contract"
+
+The basic formula for a contract to be formed: Offer + Acceptance + Consideration = Contract.
+• if a participant is able to exchange value with or interact with via a smart contract through its construction and consideration may be given through the offered interface, this could be deemed an open offer; if the smart contract whitelists a counterparty's address for interaction or requests signature from a counterparty's address, that smart contract may constitute an offer solely to that counterparty;
+• by signing their private signature to the smart contract or indicating acceptance by sending value (subject to some commercial law limitations/qualifications on acceptance), the counterparty may indicate acceptance to the agreement as an analog to commonly accepted electronic signatures. For example, UCC Section 2-206(1)(a): "an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances"; and
+• the element of consideration may be satisfied provided each party interacting in some manner with the smart contract exchanges some form of value (which could be ETH, tokens, or arguably merely the gas cost).
+
 Meatspace legal enforcement of rights, obligations, intent, and other aspects of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Contract law and UCC specialists will find much to deliberate on concepts such as whether a “firm offer” can conceivably exist in a time-limited smart contract, be firm in perpetuity as an immutable contract address, or how immutability affects offer revocations, etc. 
 
 ##Control/onlyOwner
