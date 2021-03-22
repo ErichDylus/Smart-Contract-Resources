@@ -1,6 +1,7 @@
 # Cryptolaw Resources and Repos
 
 [LexDAO's Lex Corpus](https://github.com/lexDAO/LexCorpus) - contract library for legal engineering
+
 [lex_node's Cryptolaw Emporium](https://github.com/lex-node/lex_node_cryptoLaw_emporium)
 
 # Smart Contracts v. Traditional Contracts
