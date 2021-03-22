@@ -1,3 +1,8 @@
+# Cryptolaw Resources and Repos
+
+[LexDAO's Lex Corpus](https://github.com/lexDAO/LexCorpus) - contract library for legal engineering
+[lex_node's Cryptolaw Emporium](https://github.com/lex-node/lex_node_cryptoLaw_emporium)
+
 # Smart Contracts v. Traditional Contracts
 Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
 
