@@ -65,3 +65,5 @@
 [Dispute Resolution: the Kleros Handbook to Decentralized Justice](https://kleros.io/en/book/) - Ast, George et al, 2020
 
 [Transactional Scripts in Contract Stacks](https://minnesotalawreview.org/article/transactional-scripts-in-contract-stacks/) - Cohney & Hoffman, 2020
+
+[Autonomous Lawyering](https://lexnode.substack.com/p/autonomous-lawyering) - Shapiro, 2020
