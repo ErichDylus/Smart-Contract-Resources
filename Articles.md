@@ -67,3 +67,5 @@
 [Transactional Scripts in Contract Stacks](https://minnesotalawreview.org/article/transactional-scripts-in-contract-stacks/) - Cohney & Hoffman, 2020
 
 [Autonomous Lawyering](https://lexnode.substack.com/p/autonomous-lawyering) - Shapiro, 2020
+
+[Creating Cryptolaw for the Uniform Commercial Code](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3809901) - Reyes, 2021
