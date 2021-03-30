@@ -3,6 +3,8 @@
 ##Legal Contract Formation in Solidity (draft in progress)
 March 18, 2021
 
+*not intended to be and shall not be construed as legal advice*
+
 Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide additional layers of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. The fundamental underpinnings of contract law present some novel hypos about when, or whether, the formation of a legally recognizable contract, or element thereof, is evidenced by changes in state or other operations on the Ethereum blockchain, especially with common Solidity frameworks. Commercial law has long recognized the ability to form contracts even in the absence of "Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for salealthough the writings of the parties do not otherwise establish a contract"
 
 The basic formula for a contract to be formed: Offer + Acceptance + Consideration = Contract.
@@ -13,10 +15,11 @@ The basic formula for a contract to be formed: Offer + Acceptance + Consideratio
 Meatspace legal enforcement of rights, obligations, intent, and other aspects of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Contract law and UCC specialists will find much to deliberate on concepts such as whether a “firm offer” can conceivably exist in a time-limited smart contract, be firm in perpetuity as an immutable contract address, or how immutability affects offer revocations, etc. 
 
 ##Control/onlyOwner
-'Control' of assets, information, and authoritative copes have broad legal implications. For example, Section 9-105 of the Model UCC deals with the control of electronic chattel paper for purposes of security interest perfection, and Official Comment 3 to Section 9-105 provides that 'control' must be evidenced by a system which evidences the transfer of interests in electronic chattel paper in a manner which 'reliably' (according to general unspecified principles of uniqueness, identifiability and un-alterability) establishes that the secured party is the assignee of the electronic chattel paper, but need not be more stringent than those requirements for physical chattel paper. 
+'Control' of assets, information, and authoritative copes have broad legal implications. For example, Section 9-105 of the Model UCC deals with the control of electronic chattel paper for purposes of security interest perfection, and Official Comment 3 to Section 9-105 provides that 'control' must be evidenced by a system which evidences the transfer of interests in electronic chattel paper in a manner which 'reliably' (according to general unspecified principles of uniqueness, identifiability and un-alterability) establishes that the secured party is the assignee of the electronic chattel paper, but need not be more stringent than those requirements for physical chattel paper. One might envision a future official comment that extends such uniqueness, identifiability and un-alterability requirements to digital assets/hash pointers stored at an Ethereum address and the control thereof as being no more strigent than those requirements for electronic chattel paper.
 Given that UCC 9-105(b) hasn't had significant judicial interpretations or regulatory guidance as of the date of this writing, treatment in a blockchain context is hypothetical, but intuitively extrapolated to control of a wallet address, or onlyOwner status for a contract....
 
-###Claimable()
+###Claimable() Also, for income tax purposes, this has an important implication for constructively-received income. Under many federal tax regimes including the US, one is generally taxed on income that is available to you, regardless of whether it is actually in your possession. Similarly, the concept of assignment of income means that income received by an agent for you is income you constructively received -- if you agree by contract that a third party is to receive income for you, you must include the amount in your income when the party receives it. This has unique implications for things like airdrops and smart contracts that receive unanticipated income earmarked for periodic distribution to an address you control.
+
 ###DEX limit orders as open offers
 ###Moment of Privity (airdrops? Claimed rewards e.g. UNI, AUDIO, BADGER)
 ###Gas Costs as Consideration
