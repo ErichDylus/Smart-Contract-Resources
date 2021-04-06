@@ -28,6 +28,8 @@
 
 [Verify Contract Code on Etherscan](https://medium.com/coinmonks/how-to-verify-and-publish-on-etherscan-52cf25312945)
 
+[Contracts Wizard by OpenZeppelin](https://blog.openzeppelin.com/wizard/) - interactive contract generator, based on desired standard (current support for ERC20 and ERC721) and any other parameters and desired features (token name, symbol, premint amount, access control, etc.)
+
 # Repositories and IDEs
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
@@ -41,8 +43,6 @@
 [Ethereum Dev Tools](https://github.com/ConsenSys/ethereum-developer-tools-list) - tools, components, patterns, and platforms for developing applications on Ethereum by Consensys
 
 [OpenLaw Library](https://lib.openlaw.io) - free legal agreement templates for smart contract integration via OpenLaw's markup language
-
-[Chainlink Docs](https://docs.chain.link/docs) - example codebases and projects, using offchain data, random number generation, and external adapters
 
 
 # Security and Audit Tools
