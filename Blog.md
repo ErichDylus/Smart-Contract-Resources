@@ -19,8 +19,6 @@ Meatspace legal enforcement of rights, obligations, intent, and other aspects of
 Given that UCC 9-105(b) hasn't had significant judicial interpretations or regulatory guidance as of the date of this writing, treatment in a blockchain context is hypothetical, but intuitively extrapolated to control of a wallet address, or onlyOwner status for a contract....
 
 ###Claimable() Also, for income tax purposes, this has an important implication for constructively-received income. Under many federal tax regimes including the US, one is generally taxed on income that is available to you, regardless of whether it is actually in your possession. Similarly, the concept of assignment of income means that income received by an agent for you is income you constructively received -- if you agree by contract that a third party is to receive income for you, you must include the amount in your income when the party receives it. This has unique implications for things like airdrops and smart contracts that receive unanticipated income earmarked for periodic distribution or 'streaming payment' (for example, Sablier) to an address you control.
-
-###DEX limit orders as open offers
 ###Moment of Privity (airdrops? Claimed rewards e.g. UNI, AUDIO, BADGER)
 
 ###Gas Costs as Consideration. The concept of consideration in contract formation carries two main elements of (1) evidencing a mutual bargain between parties and (2) a legal detriment (something one is not legally obligated to do or something one must refrain from doing that one is legally privileged to do) induced by the promise of such bargain and vice versa. The purposes of consideration include:
