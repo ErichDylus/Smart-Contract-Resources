@@ -25,9 +25,9 @@ Given that UCC 9-105(b) hasn't had significant judicial interpretations or regul
   1.	Evidentiary function: providing objective evidence that the parties intended to make a binding agreement
   2.	Cautionary function: the detriment of consideration is meant to encourage parties to be cautious in their entry into agreements, and less likely to make thoughtless or bad bargains or mistakes
   3.	Context for facts and circumstances in the underlying contract's interpretation, proof, deliberation, capacity of parties
-  4.	As to some specific formalities: evidence, cautioning, challenging
+  4.	Evidence, cautioning, challenging as to certain contract formalities
 
-Anyone transaction on Ethereum mainnet can readily identify with the detriment posed by gas costs; however, the cost is not necessarily proportional to the value transferred nor does the ether paid as gas costs directly induce the promisor counterparty (instead going to miners or, per EIP 1559, to the incinerator). 
+Anyone transacting on Ethereum mainnet can readily identify with the quantifiable and apparent detriment posed by gas costs; however, the cost is not necessarily proportional to the value transferred nor does the ether paid as gas costs directly induce the promisor counterparty (instead going to miners or, per EIP 1559, to the incinerator). 
 
 
 ###UCC Article 8 Securities Intermediary - the original drafting of Article 8 contemplated possession of physical certificates to evidence ownership of securities, and changes in ownership accomplished by delivery of such certificates. The 1978 amendment permitted issuers to eschew physical certificates in favor of merely reflecting changes in ownershup in the records of the issuer by duly instructed direction. This has resulted in the correct status quo of clearing corporations (most notably the Depository Trust Company's indirect holding system) holding the vast majority of public securities' certificates and settlement of securities trading occurring by digital entries in the centralized records of the clearing corporations and designated securities intermediaries. In practice, the transactions between broker-dealers are netted daily to avoid overwhelming amounts of paperwork - analogous to state channel usage for scaling blockchain transaction throughput.  
