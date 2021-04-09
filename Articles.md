@@ -28,6 +28,8 @@
 
 [Smart Contracts and Distributed Ledger](https://www.isda.org/a/6EKDE/smart-contracts-and-distributed-ledger-a-legal-perspective.pdf) - a Legal Perspective - ISDA, Linklaters, 2017
 
+[Open Source Licensing](https://opensource.com/article/17/9/open-source-licensing) - Meeker, 2017
+
 [Blockchain-based Smart Contracts: A Systematic Mapping Study](https://arxiv.org/abs/1710.06372) - Alharby, van Moorsel, 2017
 
 [Smart Contracts: Is the Law Ready?](https://digitalchamber.org/smart-contracts-whitepaper/) -  Chamber of Digital Commerce, 2018
