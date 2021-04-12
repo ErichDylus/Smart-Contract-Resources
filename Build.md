@@ -44,6 +44,8 @@
 
 [OpenLaw Library](https://lib.openlaw.io) - free legal agreement templates for smart contract integration via OpenLaw's markup language
 
+[Web3 Type Converter](https://web3-type-converter.onbrn.com/) - convert from a bytes32/hex into a string/number or vice-versa
+
 
 # Security and Audit Tools
 
