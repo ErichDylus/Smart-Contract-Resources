@@ -46,6 +46,8 @@
 
 [Web3 Type Converter](https://web3-type-converter.onbrn.com/) - convert from a bytes32/hex into a string/number or vice-versa
 
+[Rimble Design System](https://rimble.consensys.design/) - open-source library of React components, kits and guides for dApp UX design
+
 
 # Security and Audit Tools
 
