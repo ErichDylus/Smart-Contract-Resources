@@ -2,6 +2,8 @@
 
 [Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity (or Libra) by making your own crypto-collectibles game. Recommended intro tutorial.
 
+[scaffold.eth](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth) - top to bottom resources for building dApps on Ethereum, by [Austin Griffith](https://twitter.com/austingriffith) 
+
 [Ethernaut](https://ethernaut.openzeppelin.com/) - a Web3/Solidity based war game, played in the Ethereum Virtual Machine, where each level is a smart contract that needs to be 'hacked'
 
 [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) - comprehensive guides for each step of development on Ethereum
