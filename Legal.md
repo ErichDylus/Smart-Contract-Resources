@@ -4,9 +4,9 @@
 
 [lex_node's Cryptolaw Emporium](https://github.com/lex-node/lex_node_cryptoLaw_emporium)
 
-[Startup Starter Pack](https://github.com/ErichDylus/Startup-Starter-Pack) - model legal documents for typical startup setup and fundraising needs
+[Cryptolaw News Aggregator](https://news.octal.one/) by Octal
 
-[Choose a License](https://choosealicense.com/) for open source works
+[Open Source Law Repo](https://github.com/ErichDylus/Open-Source-Law) - open source templates, forms, and other materials for DAOs, devs, and incentive programmers
 
 # Smart Contracts v. Traditional Contracts
 Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
