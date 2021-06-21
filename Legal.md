@@ -116,3 +116,5 @@ The [LAO](https://medium.com/openlawofficial/the-lao-a-for-profit-limited-liabil
 Smart contracts and DAOs present several advantages and possibilities for built-in regulatory compliance, as noted by the U.S. Commodities Futures Trading Commission's LabCFTC: smart contract collateral or proceeds cannot be sold to a non-Eligible Contract Participant (without clear digital forensic evidence on the blockchain), the contract may be coded so the transaction may not occur until the mandated period has passed, and it may incorporate automated reporting of required data or tax payments at pre-determined intervals.
 
 Wyoming has recently codified the recognition of limited liability DAOs, opening the door to further entity process automation: [Forming and Operating a Wyoming DAO LLC](https://dilendorf.com/resources/forming-and-operating-a-wyoming-dao-llc.html) - Dilendorf & Tabba, 2021
+
+[DAO Model Law](https://coala.global/reports/#1623963887316-6ce8de52-e0a0) - A proposed international uniform, model set of rules to provide legal certainty for DAOs and their members and participants by the Coalition of Automated Legal Applications (COALA), 2021
