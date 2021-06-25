@@ -18,6 +18,8 @@
 
 [Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
 
+[How to Become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew) - step by step to become an Ethereum dev by @cupOJoseph 
+
 [KnowEthereum](https://knowethereum.com/) - curated resources for the Ethereum ecosystem
 
 [Zastrin Ethereum Courses](https://www.zastrin.com/) - building a simple ethereum dApp, web3 and other framework. Free and paid
