@@ -1,5 +1,7 @@
 # Cryptolaw Resources and Repos
 
+[Blockchain 2021](https://practiceguides.chambers.com/practice-guides/blockchain-2021) - DLx Law guide to blockchain and cryptocurrency law and regulation in 18 jurisdictions
+
 [LexDAO's Lex Corpus](https://github.com/lexDAO/LexCorpus) - contract library for legal engineering
 
 [lex_node's Cryptolaw Emporium](https://github.com/lex-node/lex_node_cryptoLaw_emporium)
