@@ -73,3 +73,5 @@
 [Creating Cryptolaw for the Uniform Commercial Code](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3809901) - Reyes, 2021
 
 [Tokenized: The Law of Non-Fungible Tokens and Unique Digital Property](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821102) - Fairfield, 2021
+
+[The Limits of Code Deference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) - Hinkes, 2021
