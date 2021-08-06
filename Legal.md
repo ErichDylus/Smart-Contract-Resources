@@ -120,3 +120,5 @@ Smart contracts and DAOs present several advantages and possibilities for built-
 Wyoming has recently codified the recognition of limited liability DAOs, opening the door to further entity process automation: [Forming and Operating a Wyoming DAO LLC](https://dilendorf.com/resources/forming-and-operating-a-wyoming-dao-llc.html) - Dilendorf & Tabba, 2021
 
 [DAO Model Law](https://coala.global/reports/#1623963887316-6ce8de52-e0a0) - A proposed international uniform, model set of rules to provide legal certainty for DAOs and their members and participants by the Coalition of Automated Legal Applications (COALA), 2021
+
+[Resources for DAOs and Creators](https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k) - Kinjal Shah
