@@ -6,7 +6,7 @@
 
 [eth.build](https://eth.build/) - web3 educational sandbox with drag-and-drop and visual educational building blocks
 
-[scaffold.eth](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth) - top to bottom resources for building dApps on Ethereum, by [Austin Griffith](https://twitter.com/austingriffith) 
+[scaffold.eth](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth) - top to bottom resources for building dApps on Ethereum, by [Austin Griffith](https://twitter.com/austingriffith). Also check out additional links in his [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c).
 
 [Ethernaut](https://ethernaut.openzeppelin.com/) - a Web3/Solidity based war game, played in the Ethereum Virtual Machine, where each level is a smart contract that needs to be 'hacked'
 
