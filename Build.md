@@ -40,6 +40,8 @@
 
 [Contracts Wizard by OpenZeppelin](https://blog.openzeppelin.com/wizard/) - interactive contract generator, based on desired standard (current support for ERC20 and ERC721) and any other parameters and desired features (token name, symbol, premint amount, access control, etc.)
 
+[Solidity Gas Optimization Tips](https://mudit.blog/solidity-gas-optimization-tips/) - tips and tricks to keep gas cost low by Mudit Gupta
+
 # Repositories and IDEs
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
