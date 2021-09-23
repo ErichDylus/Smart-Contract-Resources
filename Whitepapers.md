@@ -34,16 +34,14 @@
 
 [Libra](https://developers.libra.org/docs/assets/papers/the-libra-blockchain.pdf) / [Move](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 
-[Mixicles](https://chain.link/mixicles.pdf) - Juels, Breidenbach, Coventry et. al
-
 [Kleros](https://kleros.io/assets/whitepaper.pdf) -  Lesaege, Ast, and George 
 
 [Aragon](https://github.com/aragon/whitepaper)
 
-[DeFi Money Market](https://defimoneymarket.com/DMM-Ecosystem.pdf)
-
 [Centrifuge](https://staticw.centrifuge.io/assets/centrifuge_os_protocol_paper.pdf)
 
 [iearn finance gitbook](https://github.com/iearn-finance/docs)
+
+[SushiSwap Docs](https://dev.sushi.com/api/overview)
 
 [API3](https://drive.google.com/file/d/1vcfs5UCZf_X10_NW8F5NmjLS2r1hSysO/view) - Benligiray, Milic, and Vanttinen
