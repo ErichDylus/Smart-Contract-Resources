@@ -42,6 +42,8 @@
 
 [Solidity Gas Optimization Tips](https://mudit.blog/solidity-gas-optimization-tips/) - tips and tricks to keep gas cost low by Mudit Gupta
 
+[Checklist for Contracts in Solidity](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
+
 # Repositories and IDEs
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
