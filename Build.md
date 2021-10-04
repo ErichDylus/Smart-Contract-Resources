@@ -12,8 +12,6 @@
 
 [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) - comprehensive guides for each step of development on Ethereum
 
-[Guides to Ethereum Programming for Beginners](https://consensys.net/developers/guides-to-ethereum-development/) - a wide array of guides by Consensys
-
 [Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - building full stack dApps with React, Ethers.js, Solidity, and Hardhat by Nader Dabit
 
 [Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
