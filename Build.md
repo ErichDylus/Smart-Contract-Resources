@@ -26,6 +26,8 @@
 
 [How to Learn Solidity](https://blockgeeks.com/guides/solidity/) - a step by step tutorial on a demo Solidity dApp by Ryan Molecke
 
+[Solidity Trivia](https://github.com/ajsantander/trivias) - advanced demos and explanations for Solidity trivia shared on twitter via the profile: https://twitter.com/the_ethernaut
+
 [ERC721 + Vue.js in under 10 minutes](https://medium.com/openberry/erc721-vue-js-cryptokitties-like-dapp-in-under-10-minutes-5115efc9e0bb) - useful NFT and front-end walkthrough (but watch for deprecations) by Sam Benemerito
 
 [Build a Basic App with Solidity](https://www.dappuniversity.com/articles/blockchain-app-tutorial) - dApp University tutorial for a solidity "to-do" client-side dapp
