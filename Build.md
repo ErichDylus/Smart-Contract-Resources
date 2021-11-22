@@ -1,6 +1,6 @@
 # Tutorials and Courses
 
-[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity (or Libra) by making your own crypto-collectibles game. Recommended intro tutorial.
+[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity by making your own crypto-collectibles game. Recommended intro tutorial.
 
 [Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples
 
@@ -45,6 +45,8 @@
 [Checklist for Contracts in Solidity](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
 
 # Repositories and IDEs
+
+[LexCorpus](https://github.com/lexDAO/LexCorpus) - LexDAO's contract library emphasizing lean code for security and legibility, including adapted standards, [utils](https://github.com/lexDAO/LexCorpus/tree/master/contracts/utils), [conditions](https://github.com/lexDAO/LexCorpus/tree/master/contracts/conditions), [checks](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt) etc.
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
 
