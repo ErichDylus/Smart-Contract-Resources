@@ -11,7 +11,7 @@
 [Open Source Law Repo](https://github.com/ErichDylus/Open-Source-Law) - open source templates, forms, and other materials for DAOs, devs, and incentive programmers
 
 # Smart Contracts v. Traditional Contracts
-Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
+Smart/Ricardian contracts and traditional, written contracts may be used together to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
 
  •  if a participant is able to execute a smart contract through its construction, this could be deemed an offer; if the smart contract is sent to a counterparty directly, that smart contract likely constitutes an offer solely to that counterparty; 
 
@@ -20,6 +20,8 @@ Smart/Ricardian contracts and traditional, written contracts may be used in tand
  •  the element of consideration may be satisfied provided each party in the smart contract exchanges some form of value.
 
 The imperative departure from traditional contracts is that smart contracts are agreements in digital form that are self-executing and self-enforcing to the extent encoded; importantly, Traditional legal enforcement of rights and obligations of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Including a provision allowing for liquidated damages or mutual amendment in the case of unintended software vulnerabilities or failures either in your principal agreement or in your audit contract may be advisable to the extent possible. 
+
+Depending on numerous factors, there may be elements of direct [legal contract formation in smart contracts](https://lexdao.substack.com/p/legal-contract-formation-in-smart) by the Solidity code's construction, intended interactions, etc. Overall, as the linked article states, smart contracts and traditional contracts may be used in tandem to provide deterministic execution alongside legal enforceability and remedies, while leaving flexibility for sensitive offchain terms and mutual amendments in the parties' preferences. 
 
 Governance and Dispute Resolution in blockchain-native entities are constantly iterating. [Kleros](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf) and others seek to establish frameworks for decentralized justice, and generally dispute resolution is being researched to [bridge the governance gap](http://www3.weforum.org/docs/WEF_WP_Dispute_Resolution_for_Blockchain_2020.pdf). 
 
