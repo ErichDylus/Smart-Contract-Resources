@@ -1,7 +1,7 @@
 # Blog Posts
 
-## Legal Contract Formation in Smart Contracts (draft)
-June 15, 2021 (*in progress*)
+## Legal Contract Formation in Smart Contracts (draft) (final text here: https://lexdao.substack.com/p/legal-contract-formation-in-smart)
+June 15, 2021 (draft)
 
 In most civil and common law legal systems, a "contract" may be summarized as any legally enforceable agreement between two or more parties. Smart/Ricardian contracts and traditional, written contracts may be used in tandem to provide deterministic execution alongside legal enforceability and remedies, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. The fundamental underpinnings of contract law present some novel hypos about when, or whether, the formation of a legally recognizable contract, or element thereof, is evidenced by the express or implied intent of a smart contract's code, or more granularly, by changes in state or other operations on the permissionless execution layer, such as the Ethereum blockchain. Commercial law has long recognized some instances of ability to form a legal contract even in the absence of a written agreement, for example, for a contract for sale of goods as set forth in UCC § 2-207(3): "conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract." This article examines some elements of legal contract formation within a blockchain context, primarily from the perspective of US law and the UCC, where the basic formula for legal contract formation is: Offer + Acceptance + Consideration = Contract.
 
