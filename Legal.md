@@ -30,7 +30,7 @@ Governance and Dispute Resolution in blockchain-native entities are constantly i
 
 Parties may want to eschew the Ricardian, unqualified ‘code is law’ approach in their contracting, and instead document the agreed level of deference to code's execution, perhaps adapting a form similar to the following: [Simple Code Deference Agreement](https://github.com/ErichDylus/SCoDA-Simple-Code-Deference-Agreement-)
 
-In this instance, parties are agreeing that, except in certain narrow express circumstances, they will defer to (or, refrain from legal dispute over) the results of the underlying smart contract's operation.
+In this instance, parties are agreeing that, except in certain narrow express circumstances, they will defer to (or, refrain from legal dispute over) the results of the underlying smart contract's operation. Code deference has limitations, as examined in [this article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) by Drew Hinkes, who notes it may best be viewed as a mechanism to "rebalance incentives by increasing the opportunity costs for a decentralized venture participant to sue over a smart contract outcome and providing efficient alternatives to litigation."
 
 # Cryptocurrency and Blockchain Laws and Regulations
 For crypto- or blockchain-based entities, it is imperative to consult local counsel for the jurisdiction or jurisdictions in which you are based, conducting business, soliciting funds or usage, the governing law of any underlying agreements, and any other pertinent law - especially so if any type of coin or token offering is contemplated. Here's a non-exhaustive list of example laws, regulations, and other legal constructs to consider:
@@ -97,7 +97,7 @@ When an EU Prospectus is submitted, the PR requires that summaries set out the 1
 
 The Monetary Authority of Singapore issues a Guide to Digital Token Offerings that requires a submitted prospectus, absent one of the outlined exemptions, including a private placement up to a certain threshold number of individuals within a one year period.
 
-Morrison Cohen has relaunched their [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471), which tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
+Morrison Cohen's [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471) tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
 
 # Digital Signatures and Click-Wrap Transactions
 Courts have already looked upon digital signatures and click-wrap agreements with overwhelming favor, and smart contracts in their simplest form are likely to be viewed as a natural extension. Some examples of favorable statutory precedent are UETA and the E-Sign Act. Questions of a contract's enforceability or whether a contract has actually been executed typically fall within the purview of common law (where applicable) and thus are subject to numerous potential interpretations, especially in instances where jurisdiction is uncertain due to the distributed/decentralized nature of smart contracts.
