@@ -56,6 +56,8 @@
 
 [Remix](https://remix.ethereum.org/) - Ethereum IDE with plugins and debugging
 
+[Foundry](https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox/) - Ethereum development toolkit by Paradigm, including a Rust reimplementation of [dapptools](https://dapp.tools/) 
+
 [Ethereum Dev Tools](https://github.com/ConsenSys/ethereum-developer-tools-list) - tools, components, patterns, and platforms for developing applications on Ethereum by Consensys
 
 [OpenLaw Library](https://lib.openlaw.io) - free legal agreement templates for smart contract integration via OpenLaw's markup language
