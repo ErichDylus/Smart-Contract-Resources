@@ -71,6 +71,8 @@
 
 # Security and Audit Tools
 
+[Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) StackExchange list based on community wiki
+
 [OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) - rundowns of past audits conducted by OpenZeppelin
 
 [Dev Blog Security Recommendations](https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/) - periodic security updates from Consensys as to best practices 
