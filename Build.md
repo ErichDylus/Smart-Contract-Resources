@@ -46,6 +46,8 @@
 
 [Senior Solidity Engineer's Book](https://github.com/gakonst/solidity-book) by Georgios Konstantopoulos
 
+[Vyper.fun Lessons](https://vyper.fun/lessons.html#) - learn Vyper, a python-similar language alternative to Solidity, with gamified lessons including creating a pokemon
+
 # Repositories and IDEs
 
 [LexCorpus](https://github.com/lexDAO/LexCorpus) - LexDAO's contract library emphasizing lean code for security and legibility, including adapted standards, [utils](https://github.com/lexDAO/LexCorpus/tree/master/contracts/utils), [conditions](https://github.com/lexDAO/LexCorpus/tree/master/contracts/conditions), [checks](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt) etc.
