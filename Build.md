@@ -2,7 +2,7 @@
 
 [Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity by making your own crypto-collectibles game. Recommended intro tutorial.
 
-[Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples
+[Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples. Pairs well with the [Solidity Docs](https://docs.soliditylang.org/en/v0.8.11/) and [this Solidity 101](https://secureum.substack.com/p/solidity-101) overview 
 
 [eth.build](https://eth.build/) - web3 educational sandbox with drag-and-drop and visual educational building blocks
 
