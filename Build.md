@@ -8,6 +8,8 @@
 
 [scaffold.eth](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth) - top to bottom resources for building dApps on Ethereum, by [Austin Griffith](https://twitter.com/austingriffith). Also check out additional links in his [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c).
 
+[solidity-mentorship](https://github.com/alcueca/solidity-mentorship/issues) - use case by use case program to learn solidity by Alberto Cuesta Cañada
+
 [smartcontract.engineer](https://www.smartcontract.engineer/challenges) - individual simple challenges increasing in complexity, with tests and solutions, in Solidity and Vyper
 
 [Ethernaut](https://ethernaut.openzeppelin.com/) - a Web3/Solidity based war game, played in the Ethereum Virtual Machine, where each level is a smart contract that needs to be 'hacked'
