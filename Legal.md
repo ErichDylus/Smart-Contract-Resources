@@ -19,18 +19,14 @@ Smart/Ricardian contracts and traditional, written contracts may be used togethe
 
  •  the element of consideration may be satisfied provided each party in the smart contract exchanges some form of value.
 
-The imperative departure from traditional contracts is that smart contracts are agreements in digital form that are self-executing and self-enforcing to the extent encoded; importantly, Traditional legal enforcement of rights and obligations of the underpinning agreements may be still available except to the extent expressly waived (subject to applicable law). Including a provision allowing for liquidated damages or mutual amendment in the case of unintended software vulnerabilities or failures either in your principal agreement or in your audit contract may be advisable to the extent possible. 
-
-Depending on numerous factors, there may be elements of direct [legal contract formation in smart contracts](https://lexdao.substack.com/p/legal-contract-formation-in-smart) by the Solidity code's construction, intended interactions, etc. Overall, as the linked article states, smart contracts and traditional contracts may be used in tandem to provide deterministic execution alongside legal enforceability and remedies, while leaving flexibility for sensitive offchain terms and mutual amendments in the parties' preferences. 
+Depending on numerous factors, there may be elements of direct [legal contract formation in smart contracts](https://lexdao.substack.com/p/legal-contract-formation-in-smart) by the Solidity code's construction, intended interactions, etc. 
 
 Governance and Dispute Resolution in blockchain-native entities are constantly iterating. [Kleros](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf) and others seek to establish frameworks for decentralized justice, and generally dispute resolution is being researched to [bridge the governance gap](http://www3.weforum.org/docs/WEF_WP_Dispute_Resolution_for_Blockchain_2020.pdf). 
 
 
 ## "Code is Law" v. Code Deference 
 
-Parties may want to eschew the Ricardian, unqualified ‘code is law’ approach in their contracting, and instead document the agreed level of deference to code's execution, perhaps adapting a form similar to the following: [Simple Code Deference Agreement](https://github.com/ErichDylus/SCoDA-Simple-Code-Deference-Agreement-)
-
-In this instance, parties are agreeing that, except in certain narrow express circumstances, they will defer to (or, refrain from legal dispute over) the results of the underlying smart contract's operation. Code deference has limitations, as examined in [this article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) by Drew Hinkes, who notes it may best be viewed as a mechanism to "rebalance incentives by increasing the opportunity costs for a decentralized venture participant to sue over a smart contract outcome and providing efficient alternatives to litigation."
+Parties may want to eschew the Ricardian, unqualified ‘code is law’ approach in their contracting, and instead document the agreed level of deference to code's execution, perhaps adapting a form similar to the following: [Simple Code Deference Agreement](https://github.com/ErichDylus/SCoDA-Simple-Code-Deference-Agreement-). In this instance, parties are agreeing that, except in certain narrow express circumstances, they will defer to (or, refrain from legal dispute over) the results of the underlying smart contract's operation. Code deference has limitations, as examined in [this article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) by Drew Hinkes, who notes it may best be viewed as a mechanism to "rebalance incentives by increasing the opportunity costs for a decentralized venture participant to sue over a smart contract outcome and providing efficient alternatives to litigation."
 
 # Cryptocurrency and Blockchain Laws and Regulations
 For crypto- or blockchain-based entities, it is imperative to consult local counsel for the jurisdiction or jurisdictions in which you are based, conducting business, soliciting funds or usage, the governing law of any underlying agreements, and any other pertinent law - especially so if any type of coin or token offering is contemplated. Here's a non-exhaustive list of example laws, regulations, and other legal constructs to consider:
@@ -58,16 +54,7 @@ For crypto- or blockchain-based entities, it is imperative to consult local coun
 
 • GDPR: extraterritoriality (the operation of laws outside the boundary of a state or country) may affect an international company that collects data on EU citizens - it is under the same legal obligation it would be if  headquartered in the EU, even without presence there. Generally, Cravath, Swaine & Moore LLP recommends "four guiding principles for entities hosting GDPR‑compliant blockchains: Use a private, permissioned blockchain; avoid, if possible, the storing of personal data on the blockchain; establish a detailed governance framework; and employ innovative solutions to data protection problems." While ongoing security and privacy implementations may invalidate some of these points, they should not be ignored.
 
-The UK Jurisdiction Task Force has released a [statement](https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/6.6056_JO_Cryptocurrencies_Statement_FINAL_WEB_111119-1.pdf) on the legal treatment of cryptoassets and smart contracts, more clearly defining the UK position on enforceability and classifications. 
-
-The statement confirms that under English law:
-
-cryptoassets are capable of being owned; and
-smart contracts can be, or be part of, binding legal contracts.
-Linklaters notes that the legal statement provides that the asset is "not any of the public or private keys, or the distributed ledger data itself. None of those constitute property but rather they are mere information. Instead, the asset is something that arises from their combination with the relevant system rules (including the embedded cryptography): the exclusive ability to update or spend transaction data." Further, the statement acknowledges that security over a cryptoasset may be accomplished by way of charge or mortgage, but not pledge or lien.
-
-
-Consensys provides a myriad of webinars covering specific sector information as well, including niche commercial and legal considerations.
+The UK Jurisdiction Task Force has released a [statement](https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/6.6056_JO_Cryptocurrencies_Statement_FINAL_WEB_111119-1.pdf) on the legal treatment of cryptoassets and smart contracts, more clearly defining the UK position on enforceability and classifications. Linklaters notes that the legal statement provides that the asset is "not any of the public or private keys, or the distributed ledger data itself. None of those constitute property but rather they are mere information. Instead, the asset is something that arises from their combination with the relevant system rules (including the embedded cryptography): the exclusive ability to update or spend transaction data." Further, the statement acknowledges that security over a cryptoasset may be accomplished by way of charge or mortgage, but not pledge or lien.
 
 Security Token Laws and Regulations
 For any token issuance or transactions through smart contracts that may involved a security changing hands, it is crucial to seek legal advice regarding applicable securities laws and regulations (including but not limited to International, Federal and State jurisdictions) beforehand. Examples of American regulations include:
@@ -102,8 +89,6 @@ Morrison Cohen's [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.c
 # Digital Signatures and Click-Wrap Transactions
 Courts have already looked upon digital signatures and click-wrap agreements with overwhelming favor, and smart contracts in their simplest form are likely to be viewed as a natural extension. Some examples of favorable statutory precedent are UETA and the E-Sign Act. Questions of a contract's enforceability or whether a contract has actually been executed typically fall within the purview of common law (where applicable) and thus are subject to numerous potential interpretations, especially in instances where jurisdiction is uncertain due to the distributed/decentralized nature of smart contracts.
 
-The USA's 21st Century IDEA Act presents a new legal framework to improve digital interactions with the federal government. It establishes deadlines for federal government agencies to provide mobile-accessible and updated versions of their websites, digital forms and services, and electronic signatures.  Given the forward-thinking contributors at the widely-used digital signature enabler DocuSign, it is possible the outcomes of this new legislation will be leveraged into smart contract implementations.
-
 Digital signatures utilizing DLT or in a blockchain context do not yet have meaningful judicial precedent. However, a signature under public key encryption is likely to follow the same evaluations as a simple e-signature (such as a digitally signed PDF or merely an email with a designated name): did the signer actually execute, and did the signed have the intention to do so, the capability to do so, and the authority to do so?
 
 ## Arbitration, Dispute Resolution, and Litigation
@@ -124,3 +109,5 @@ Wyoming has recently codified the recognition of limited liability DAOs, opening
 [DAO Model Law](https://coala.global/reports/#1623963887316-6ce8de52-e0a0) - A proposed international uniform, model set of rules to provide legal certainty for DAOs and their members and participants by the Coalition of Automated Legal Applications (COALA), 2021
 
 [Resources for DAOs and Creators](https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k) - Kinjal Shah
+
+[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on the case for Unincorporated Nonprofit Associations as DAO legal wrappers. [Cooperatives](https://thedefiant.io/solving-the-riddle-of-the-dao-with-colorados-cooperative-laws/) are gaining traction as legal wrappers for certain types of DAOs as well.
