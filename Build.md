@@ -4,6 +4,8 @@
 
 [Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples. Pairs well with the [Solidity Docs](https://docs.soliditylang.org/en/v0.8.11/) and [this Solidity 101](https://secureum.substack.com/p/solidity-101) overview 
 
+[Smart Contract Programmer's Youtube Channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) - step-by-step Solidity coding and test demonstrations of common smart contract patterns, features, functions, etc.
+
 [eth.build](https://eth.build/) - web3 educational sandbox with drag-and-drop and visual educational building blocks
 
 [scaffold.eth](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth) - top to bottom resources for building dApps on Ethereum, by [Austin Griffith](https://twitter.com/austingriffith). Also check out additional links in his [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c).
