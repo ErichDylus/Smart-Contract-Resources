@@ -34,8 +34,6 @@
 
 [Solidity Trivia](https://github.com/ajsantander/trivias) - advanced demos and explanations for Solidity trivia shared on twitter via the profile: https://twitter.com/the_ethernaut
 
-[ERC721 + Vue.js in under 10 minutes](https://medium.com/openberry/erc721-vue-js-cryptokitties-like-dapp-in-under-10-minutes-5115efc9e0bb) - useful NFT and front-end walkthrough (but watch for deprecations) by Sam Benemerito
-
 [Build a Basic App with Solidity](https://www.dappuniversity.com/articles/blockchain-app-tutorial) - dApp University tutorial for a solidity "to-do" client-side dapp
 
 [Gentler Introduction to Programming](https://www.freecodecamp.org/news/a-gentler-introduction-to-programming-1f57383a1b2c/) - beginner's general overview of programming
@@ -51,6 +49,8 @@
 [Checklist for Contracts in Solidity](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
 
 [Senior Solidity Engineer's Book](https://github.com/gakonst/solidity-book) by Georgios Konstantopoulos
+
+[jenny.lol Solidity Links](https://jenny.lol/solidity-links/) - collection of intermediate to advanced solidity concepts, repos, gas optimizations, and tweet threads
 
 [Vyper.fun Lessons](https://vyper.fun/lessons.html#) - learn Vyper, a python-similar language alternative to Solidity, with gamified lessons including creating a pokemon
 
