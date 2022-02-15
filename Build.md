@@ -14,6 +14,8 @@
 
 [smartcontract.engineer](https://www.smartcontract.engineer/challenges) - individual simple challenges increasing in complexity, with tests and solutions, in Solidity and Vyper
 
+[Learning Solidity Video Tutorials](https://github.com/willitscale/learning-solidity) - list of Solidity Tutorial YouTube videos by Will it Scale
+
 [Ethernaut](https://ethernaut.openzeppelin.com/) - a Web3/Solidity based war game, played in the Ethereum Virtual Machine, where each level is a smart contract that needs to be 'hacked'
 
 [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) - comprehensive guides for each step of development on Ethereum
@@ -24,9 +26,9 @@
 
 [How to Become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew) - step by step to become an Ethereum dev by @cupOJoseph 
 
-[KnowEthereum](https://knowethereum.com/) - curated resources for the Ethereum ecosystem
+[DeFi Developer Roadmap by Officer CIA](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
-[Zastrin Ethereum Courses](https://www.zastrin.com/) - building a simple ethereum dApp, web3 and other framework. Free and paid
+[KnowEthereum](https://knowethereum.com/) - curated resources for the Ethereum ecosystem
 
 [Coursetro](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners) - developing Ethereum smart contracts for beginners
 
@@ -87,6 +89,8 @@
 [Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) StackExchange list based on community wiki
 
 [OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) - rundowns of past audits conducted by OpenZeppelin
+
+[Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
 
 [Dev Blog Security Recommendations](https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/) - periodic security updates from Consensys as to best practices 
 
