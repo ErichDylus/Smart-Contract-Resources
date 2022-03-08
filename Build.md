@@ -58,6 +58,8 @@
 
 [Buildspace](https://buildspace.so/) - learn and build web3 projects and earn NFTs 
 
+[Blockchain Development Guide / devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) - a public good guide for blockchain development on Ethereum
+
 
 # Repositories and IDEs
 
