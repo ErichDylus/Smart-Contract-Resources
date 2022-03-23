@@ -42,11 +42,9 @@ For crypto- or blockchain-based entities, it is imperative to consult local coun
 
 • Commodity Exchange Act and U.S. SEC and CFTC regulations may apply to digital currency transfers and purchases via smart contracts.
 
-• The Bank Secrecy Act, the Patriot Act, and other Anti-Money Laundering and Money Transmission laws and regulations are imperative US laws to follow in remittance of cryptocurrencies and/or fiat currencies through public blockchain technologies and in determining KYC requirements.
+• The Bank Secrecy Act, the Patriot Act, and other Anti-Money Laundering and Money Transmission laws and regulations are imperative US laws to follow in remittance of cryptocurrencies and/or fiat currencies through public blockchain technologies and in determining KYC requirements. 
 
 • [0x Legal Wiki and Library](https://0x.org/wiki#Legal-Wiki) provides useful US law resources especially applicable to exchanges and DEXs, but also for OFAC and AML concerns 
-
-•  New York’s Department of Financial Services established a stringent licensing rule (the “BitLicense”) for virtual currency-based businesses. 
 
 • Tax laws and regulations (International treaties, Federal, State, and local) must always be addressed in transfers of value.
 
@@ -65,8 +63,9 @@ For any token issuance or transactions through smart contracts that may involved
 
  - Reg S (International Exemption)
 
+ - Reg CF (Crowdfunding)
 
-To launch a Security Token Offering ("STO") in the EU, companies generally have to submit a prospectus and comply with local security laws, except when qualified by certain exceptions, such as:
+In the EU, token issuers generally have to submit a prospectus and comply with local security laws, except when qualified by certain exceptions, such as:
 
  - Qualified investors’ exemption (private placement): solicit "qualified investors" only for the STO, as defined by EU regulations.
 
@@ -78,11 +77,8 @@ To launch a Security Token Offering ("STO") in the EU, companies generally have 
 
 - Growth Prospectus:  starting July 21, 2019, SMEs (companies with a market cap of up to €43 million, turnover of up to €5 million or fewer than 250 employees) and mid-sized companies admitted to an SME Growth Market may use a simplified document when offering securities to the public, provided that their securities are not traded on a regulated market.
 
+When an EU Prospectus is submitted, the PR requires that summaries set out the 15 most material risk factors specific to the issuer, and the guarantor (if applicable). Possible risk factors for token issuers and smart contract-related entities may include errors in code, protocol forks, crypto market volatility, technological obsolescence, and security. It is important to note that civil liability could arise in respect of a summary that is misleading, inaccurate or missing material information when read along with the rest of the prospectus.
 
-When an EU Prospectus is submitted, the PR requires that summaries set out the 15 most material risk factors specific to the issuer, and the guarantor (if applicable). Possible risk factors for STOs and smart contract-related entities may include errors in code, protocol forks, crypto market volatility, technological obsolescence, and security. It is important to note that civil liability could arise in respect of a summary that is misleading, inaccurate or missing material information when read along with the rest of the prospectus.
-
-
-The Monetary Authority of Singapore issues a Guide to Digital Token Offerings that requires a submitted prospectus, absent one of the outlined exemptions, including a private placement up to a certain threshold number of individuals within a one year period.
 
 Morrison Cohen's [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471) tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
 
@@ -92,9 +88,7 @@ Courts have already looked upon digital signatures and click-wrap agreements wit
 Digital signatures utilizing DLT or in a blockchain context do not yet have meaningful judicial precedent. However, a signature under public key encryption is likely to follow the same evaluations as a simple e-signature (such as a digitally signed PDF or merely an email with a designated name): did the signer actually execute, and did the signed have the intention to do so, the capability to do so, and the authority to do so?
 
 ## Arbitration, Dispute Resolution, and Litigation
-Smart contracts, or traditional contracts leveraging smart contract technology for certain terms or conditions therein, may integrate any traditional jurisdictional or dispute settlement clauses. However, Blockchain-based arbitration, as currently being tested and developed by OpenLaw, may present some interesting legal intricacies when the points to be arbitrated are non-binary or non-discrete, or in the instance of mistaken award. This is a process whose development we are closely monitoring.
-
-JAMS, a member of the Accord Project, is the first institutional ADR provider to create supportive protocols for disputes arising from blockchain smart contracts. Draft JAMS rules and clauses are being vetted by industry experts and potential users, and are available for review and comment upon request to JAMS.  
+Smart contracts, or traditional contracts leveraging smart contract technology for certain terms or conditions therein, may integrate any traditional jurisdictional or dispute settlement clauses. However, Blockchain-based arbitration may present some interesting legal intricacies when the points to be arbitrated are non-binary or non-discrete, or in the instance of mistaken award. 
 
 
 ## DAOs
@@ -110,4 +104,10 @@ Wyoming has recently codified the recognition of limited liability DAOs, opening
 
 [Resources for DAOs and Creators](https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k) - Kinjal Shah
 
-[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on the case for Unincorporated Nonprofit Associations as DAO legal wrappers. [Cooperatives](https://thedefiant.io/solving-the-riddle-of-the-dao-with-colorados-cooperative-laws/) are gaining traction as legal wrappers for certain types of DAOs as well.
+[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on the case for Unincorporated Nonprofit Associations as DAO legal wrappers. 
+
+[Foundations](https://medium.com/@erich.dylus/api3-year-0-wrapped-dao-and-legal-structure-37132af2776b) initiated by guarantee rather than share capital are a popular choice as a DAO legal wrapper, obviating the need for shareholders or members, often in tax-advantaged jurisdictions. Limitations arise in VASP-related activities, fiduciary checks, and other areas that are best discussed with local counsel.
+
+[Cooperatives](https://thedefiant.io/solving-the-riddle-of-the-dao-with-colorados-cooperative-laws/) are also gaining traction as legal wrappers for certain types of DAOs as distributions may be made by measure of DAO contributors' patronage, though registration and collection of member personal information for tax purposes is likely unavoidable for US-based cooperatives. 
+
+Foreign non-grantor trusts, such as the [Guernsey Purpose Trust](https://dydx.foundation/blog/en/legal-framework-non-us-trusts-in-daos) structure, are seen as a favorable way to gate DAO member liability vectors and avoid US tax reporting or filing obligations where the trust is not funded on a transfer involving a US person, no US-sourced income is generated by the trust, and there are no US beneficiaries to the trust. The trustees are generally obligated to act in accordance with the purpose of the trust and their fiduciary duties, and are subject to the supervision of an enforcer.
