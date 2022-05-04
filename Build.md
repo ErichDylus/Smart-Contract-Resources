@@ -20,6 +20,8 @@
 
 [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/) - comprehensive guides for each step of development on Ethereum
 
+[The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d) - curated list of EVM resources
+
 [Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - building full stack dApps with React, Ethers.js, Solidity, and Hardhat by Nader Dabit
 
 [Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
