@@ -1,6 +1,6 @@
 # Cryptolaw Resources and Repos
 
-[Blockchain 2021](https://practiceguides.chambers.com/practice-guides/blockchain-2021) - DLx Law guide to blockchain and cryptocurrency law and regulation in 18 jurisdictions
+[the cod3x](https://www.thecod3x.com/) - cryptolaw treatise and reference aggregator
 
 [LexDAO's Lex Corpus](https://github.com/lexDAO/LexCorpus) - contract library for legal engineering
 
@@ -9,6 +9,8 @@
 [Cryptolaw News Aggregator](https://news.octal.one/) by Octal
 
 [Open Source Law Repo](https://github.com/ErichDylus/Open-Source-Law) - open source templates, forms, and other materials for DAOs, devs, and incentive programmers
+
+[Blockchain 2021](https://practiceguides.chambers.com/practice-guides/blockchain-2021) - DLx Law guide to blockchain and cryptocurrency law and regulation in 18 jurisdictions
 
 # Smart Contracts v. Traditional Contracts
 Smart/Ricardian contracts and traditional, written contracts may be used together to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
@@ -37,6 +39,8 @@ For crypto- or blockchain-based entities, it is imperative to consult local coun
    UCC Exclusions under E-Sign Act and UETA: all sections except 1-107 (Waiver of Renunciation of Claim or Right After Breach), 1-206, (Statute of Frauds for Kinds of Personal Property Not Otherwise Covered), Article 2 (Sales) and Article 2A (Leases)
    UCC Article 9 security agreements are excluded, but Article 9 already allows for "electronic records" and electronic "authentication." Article 3 negotiable instruments are excluded, but safe harbor rule allows for electronic "transferable records" that are unique and identifiable, with a single authoritative copy identifying controller.
    UCC has certain "possession" and "control" provisions that have so far been untested in the context of private keys and "ownable" smart contracts
+
+The proposed draft UCC Article 12 sets out parameters for a new defined term, "controllable electronic record(s)" ("CER"), which intends to provide the legal rules governing the transfer—both outright and for security—of interests in some, but not all, electronic records (controllable electronic records - designed to encompass many types of digital assets). The Article 12 rules specify the rights in a CER that a purchaser would acquire, and would make CER negotiable, in the sense that a good faith purchaser for value would take a CER free of third-party claims of a property interest in the CER.
 
 • The US's 21st Century IDEA Act (Integrated Digital Experience Act) establishes deadlines for federal government agencies to provide mobile and accessible versions of their websites, digital forms and services, and electronic signatures, greatly streamlining potential integration into smart contract processes.
 
@@ -91,7 +95,7 @@ Digital signatures utilizing DLT or in a blockchain context do not yet have mean
 Smart contracts, or traditional contracts leveraging smart contract technology for certain terms or conditions therein, may integrate any traditional jurisdictional or dispute settlement clauses. However, Blockchain-based arbitration may present some interesting legal intricacies when the points to be arbitrated are non-binary or non-discrete, or in the instance of mistaken award. 
 
 
-## DAOs
+## DAOs and Legal Entity Wrappers
 Decentralized Autonomous Organizations ("[DAO](https://medium.com/@OpenLawOfficial/the-era-of-legally-compliant-daos-491edf88fed0)s") are decentralized, "headless" entities which rely on smart contracts to automate certain operations, governance, and behavior. This reduces overhead, permits greater organizational transparency, and tightens internal controls. DAOs effectively decentralize identifying aspects of traditional entities such as jurisdiction of organization, principal place of business, and raise novel concerns in liability apportionment-- as such, regulatory compliance of DAOs, especially in the U.S., is tricky. LexDAO is a legal engineer club building web3.0 legal assets and code, such as escrow and dispute resolution, powered by Ethereum transactional scripts via an Aragon DAO. ZeroLaw LLC is undertaking to refine a model [DAO charter](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md) for DAOs wishing to function as unincorporated associations. DAOs often create a corresponding "legal wrapper" meatspace entity in order to interact with traditional entities in meatspace contracts and generally soak up liability.
 
 The [LAO](https://medium.com/openlawofficial/the-lao-a-for-profit-limited-liability-autonomous-organization-9eae89c9669c), envisioning a more broadly applicable Limited Liability Autonomous Organization, seeks to lessen "meatspace" (or human, non-decentralized actor/input/output) liability through the use of Ricardian Contracts in apportioning capital. The LAO and OpenLaw are continually developing and progressing the [taxonomy](https://medium.com/@thelaoofficial/a-taxonomy-for-laos-making-sense-of-the-emerging-lao-ecosystem-1122b035fe1a) and risks of such structures, setting forth autonomous entity formation options such as the Decentralized Automated Corporation (DAC), Limited Liability Autonomous Company (LLAC), and the Limited Autonomous Cooperative (LAOP).
@@ -104,7 +108,7 @@ Wyoming has recently codified the recognition of limited liability DAOs, opening
 
 [Resources for DAOs and Creators](https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k) - Kinjal Shah
 
-[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on the case for Unincorporated Nonprofit Associations as DAO legal wrappers. 
+[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on the case for Unincorporated Nonprofit Associations as DAO legal wrappers, including a [Part II](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf) on entity selection frameworks
 
 [Foundations](https://medium.com/@erich.dylus/api3-year-0-wrapped-dao-and-legal-structure-37132af2776b) initiated by guarantee rather than share capital are a popular choice as a DAO legal wrapper, obviating the need for shareholders or members, often in tax-advantaged jurisdictions. Limitations arise in VASP-related activities, fiduciary checks, and other areas that are best discussed with local counsel.
 
