@@ -83,7 +83,6 @@ In the EU, token issuers generally have to submit a prospectus and comply with l
 
 When an EU Prospectus is submitted, the PR requires that summaries set out the 15 most material risk factors specific to the issuer, and the guarantor (if applicable). Possible risk factors for token issuers and smart contract-related entities may include errors in code, protocol forks, crypto market volatility, technological obsolescence, and security. It is important to note that civil liability could arise in respect of a summary that is misleading, inaccurate or missing material information when read along with the rest of the prospectus.
 
-
 Morrison Cohen's [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471) tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
 
 # Digital Signatures and Click-Wrap Transactions
@@ -108,7 +107,7 @@ Wyoming has recently codified the recognition of limited liability DAOs, opening
 
 [Resources for DAOs and Creators](https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k) - Kinjal Shah
 
-[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on the case for Unincorporated Nonprofit Associations as DAO legal wrappers, including a [Part II](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf) on entity selection frameworks
+[LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on using Unincorporated Nonprofit Associations and hybrid structures as DAO legal wrappers, with a16z following up with a detailed [Part II](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf) on entity selection frameworks. [Paradigm](https://daos.paradigm.xyz/) has also created an entity wrapper comparison matrix comparing features and liability vectors. Both a16z's and Paradigm's analyses are from primarily American perspectives.
 
 [Foundations](https://medium.com/@erich.dylus/api3-year-0-wrapped-dao-and-legal-structure-37132af2776b) initiated by guarantee rather than share capital are a popular choice as a DAO legal wrapper, obviating the need for shareholders or members, often in tax-advantaged jurisdictions. Limitations arise in VASP-related activities, fiduciary checks, and other areas that are best discussed with local counsel.
 
