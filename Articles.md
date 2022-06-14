@@ -24,8 +24,6 @@
 
 [Smart Contracts and the Cost of Inflexibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3008899) - Jeremy Sklaroff, 2017
 
-[Enterprise Smart Contracts](https://github.com/Azure/azure-blockchain-projects/blob/master/bletchley/EnterpriseSmartContracts.md) - Marley Grey, 2017
-
 [Smart Contracts and Distributed Ledger](https://www.isda.org/a/6EKDE/smart-contracts-and-distributed-ledger-a-legal-perspective.pdf) - a Legal Perspective - ISDA, Linklaters, 2017
 
 [Open Source Licensing](https://opensource.com/article/17/9/open-source-licensing) - Meeker, 2017
@@ -77,3 +75,5 @@
 [Flavours of On-Chain SVG NFTs on Ethereum](https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum) - de la Rouviere, 2021
 
 [The Limits of Code Deference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) - Hinkes, 2021
+
+[Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737) - Brummer & Seira, 2022
