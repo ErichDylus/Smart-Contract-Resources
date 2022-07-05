@@ -50,7 +50,7 @@ The proposed draft UCC Article 12 sets out parameters for a new defined term, "c
 
 • [0x Legal Wiki and Library](https://0x.org/wiki#Legal-Wiki) provides useful US law resources especially applicable to exchanges and DEXs, but also for OFAC and AML concerns 
 
-• Tax laws and regulations (International treaties, Federal, State, and local) must always be addressed in transfers of value.
+• Tax laws and regulations (International treaties, Federal, State, and local) must always be addressed in transfers of value. NFTs may present some novel tax quandaries, as noted [in this article by Jason Schwartz](https://www.friedfrank.com/siteFiles/Publications/Non-Fungible%20Tokens%20_%20Decentralized%20Law%20-%20BanklessDAO.pdf)
 
 • Money transmission laws and regulations (International treaties, Federal, and State) apply to digital currency transfers.
 
