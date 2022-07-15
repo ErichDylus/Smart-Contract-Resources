@@ -10,7 +10,7 @@
 
 [Open Source Law Repo](https://github.com/ErichDylus/Open-Source-Law) - open source templates, forms, and other materials for DAOs, devs, and incentive programmers
 
-[Blockchain 2021](https://practiceguides.chambers.com/practice-guides/blockchain-2021) - DLx Law guide to blockchain and cryptocurrency law and regulation in 18 jurisdictions
+[Blockchain 2022](https://gpg-pdf.chambers.com/view/171805341/1/) - DLx Law-edited guide to blockchain and cryptocurrency law and regulation in 20 jurisdictions
 
 # Smart Contracts v. Traditional Contracts
 Smart/Ricardian contracts and traditional, written contracts may be used together to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
