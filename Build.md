@@ -1,8 +1,10 @@
 # Tutorials and Courses
 
-[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity by making your own crypto-collectibles game. Recommended intro tutorial.
+[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity by making your own crypto-collectibles game. Recommended intro tutorial
 
 [Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples. Pairs well with the [Solidity Docs](https://docs.soliditylang.org/en/v0.8.11/) and [this Solidity 101](https://secureum.substack.com/p/solidity-101) overview 
+
+[Vyper by Example](https://vyper-by-example.org/) - introduction to Vyper concepts with simple examples, mirroring the format of Solidity by Example
 
 [Smart Contract Programmer's Youtube Channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) - step-by-step Solidity coding and test demonstrations of common smart contract patterns, features, functions, etc.
 
