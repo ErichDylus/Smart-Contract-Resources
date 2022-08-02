@@ -1,16 +1,24 @@
 # Tutorials and Courses
 
-[Cryptozombies](https://cryptozombies.io/) - a free interactive school for building smart contracts in Solidity by making your own crypto-collectibles game. Recommended intro tutorial
+[Cryptozombies](https://cryptozombies.io/) - free interactive tutorial to learn Solidity by making your own zombie crypto-collectibles game
 
-[Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples. Pairs well with the [Solidity Docs](https://docs.soliditylang.org/en/v0.8.11/) and [this Solidity 101](https://secureum.substack.com/p/solidity-101) overview 
+[Vyper.fun](https://learn.vyperlang.org/#/) - free interactive tutorial to learn Vyper by building a Pokémon Game
 
-[Vyper by Example](https://vyper-by-example.org/) - introduction to Vyper concepts with simple examples, mirroring the format of Solidity by Example
+[Solidity by Example](https://solidity-by-example.org/) - introduction to Solidity concepts with simple examples. Pairs well with the [Solidity Docs](https://docs.soliditylang.org/en/v0.8.15/) and [this Solidity 101](https://secureum.substack.com/p/solidity-101) overview 
+
+[Vyper by Example](https://vyper-by-example.org/) - introduction to Vyper concepts with simple examples, mirroring the format of Solidity by Example. Pairs well with the [Vyper Docs](https://vyper.readthedocs.io/en/stable/toctree.html)
+
+[lil-web3](https://github.com/m1guelpf/lil-web3) - simple, intentionally-limited versions of web3 protocols & apps to better understand how they work, by Miguel Piedrafita
+
+[DeFi Developer Roadmap by Officer CIA](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - curated DeFi development & general blockchain research and tools
 
 [Smart Contract Programmer's Youtube Channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) - step-by-step Solidity coding and test demonstrations of common smart contract patterns, features, functions, etc.
 
 [eth.build](https://eth.build/) - web3 educational sandbox with drag-and-drop and visual educational building blocks
 
 [scaffold.eth](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth) - top to bottom resources for building dApps on Ethereum, by [Austin Griffith](https://twitter.com/austingriffith). Also check out additional links in his [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c).
+
+[jenny.lol Solidity Links](https://jenny.lol/solidity-links/) - collection of intermediate to advanced solidity concepts, repos, gas optimizations, and tweet threads
 
 [solidity-mentorship](https://github.com/alcueca/solidity-mentorship/issues) - use case by use case program to learn solidity by Alberto Cuesta Cañada
 
@@ -29,8 +37,6 @@
 [Ethereum and Solidity: the Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - a popular Udemy course by Stephen Grider on building Ethereum smart contract dApps, including material on Solidity and React
 
 [How to Become an Ethereum Developer Guide](https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew) - step by step to become an Ethereum dev by @cupOJoseph 
-
-[DeFi Developer Roadmap by Officer CIA](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
 [KnowEthereum](https://knowethereum.com/) - curated resources for the Ethereum ecosystem
 
@@ -53,12 +59,6 @@
 [Solidity Gas Optimization Tips](https://mudit.blog/solidity-gas-optimization-tips/) - tips and tricks to keep gas cost low by Mudit Gupta
 
 [Checklist for Contracts in Solidity](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
-
-[Senior Solidity Engineer's Book](https://github.com/gakonst/solidity-book) by Georgios Konstantopoulos
-
-[jenny.lol Solidity Links](https://jenny.lol/solidity-links/) - collection of intermediate to advanced solidity concepts, repos, gas optimizations, and tweet threads
-
-[Vyper.fun Lessons](https://vyper.fun/lessons.html#) - learn Vyper, a python-similar language alternative to Solidity, with gamified lessons including creating a pokemon
 
 [Buildspace](https://buildspace.so/) - learn and build web3 projects and earn NFTs 
 
