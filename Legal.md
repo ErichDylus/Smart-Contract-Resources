@@ -12,6 +12,8 @@
 
 [Blockchain 2022](https://gpg-pdf.chambers.com/view/171805341/1/) - DLx Law-edited guide to blockchain and cryptocurrency law and regulation in 20 jurisdictions
 
+[Buzko DAO Legal Canon](https://www.buzko.legal/dao-legal-canon) - living list of publications and other content relating to legal aspects of DAOs
+
 # Smart Contracts v. Traditional Contracts
 Smart/Ricardian contracts and traditional, written contracts may be used together to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
 
@@ -55,8 +57,6 @@ The proposed draft UCC Article 12 sets out parameters for a new defined term, "c
 • Money transmission laws and regulations (International treaties, Federal, and State) apply to digital currency transfers.
 
 • GDPR: extraterritoriality (the operation of laws outside the boundary of a state or country) may affect an international company that collects data on EU citizens - it is under the same legal obligation it would be if  headquartered in the EU, even without presence there. Generally, Cravath, Swaine & Moore LLP recommends "four guiding principles for entities hosting GDPR‑compliant blockchains: Use a private, permissioned blockchain; avoid, if possible, the storing of personal data on the blockchain; establish a detailed governance framework; and employ innovative solutions to data protection problems." While ongoing security and privacy implementations may invalidate some of these points, they should not be ignored.
-
-The UK Jurisdiction Task Force has released a [statement](https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/6.6056_JO_Cryptocurrencies_Statement_FINAL_WEB_111119-1.pdf) on the legal treatment of cryptoassets and smart contracts, more clearly defining the UK position on enforceability and classifications. Linklaters notes that the legal statement provides that the asset is "not any of the public or private keys, or the distributed ledger data itself. None of those constitute property but rather they are mere information. Instead, the asset is something that arises from their combination with the relevant system rules (including the embedded cryptography): the exclusive ability to update or spend transaction data." Further, the statement acknowledges that security over a cryptoasset may be accomplished by way of charge or mortgage, but not pledge or lien.
 
 Security Token Laws and Regulations
 For any token issuance or transactions through smart contracts that may involved a security changing hands, it is crucial to seek legal advice regarding applicable securities laws and regulations (including but not limited to International, Federal and State jurisdictions) beforehand. Examples of American regulations include:
