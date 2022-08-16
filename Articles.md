@@ -77,3 +77,5 @@
 [The Limits of Code Deference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) - Hinkes, 2021
 
 [Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737) - Brummer & Seira, 2022
+
+[Sufficient Decentralization](https://variant.fund/wp-content/uploads/2022/08/Sufficient-Decentralization-by-Marc-Boiron.pdf) - Boiron, 2022
