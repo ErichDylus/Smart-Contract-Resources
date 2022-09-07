@@ -10,6 +10,8 @@
 
 [lil-web3](https://github.com/m1guelpf/lil-web3) - simple, intentionally-limited versions of web3 protocols & apps to better understand how they work, by Miguel Piedrafita
 
+[DeveloperDAO Knowledge Base](https://github.com/Developer-DAO/resources) - repository with web3 development resources by Developer DAO
+
 [DeFi Developer Roadmap by Officer CIA](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - curated DeFi development & general blockchain research and tools
 
 [Smart Contract Programmer's Youtube Channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) - step-by-step Solidity coding and test demonstrations of common smart contract patterns, features, functions, etc.
