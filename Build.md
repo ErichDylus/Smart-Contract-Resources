@@ -50,8 +50,6 @@
 
 [Build a Basic App with Solidity](https://www.dappuniversity.com/articles/blockchain-app-tutorial) - dApp University tutorial for a solidity "to-do" client-side dapp
 
-[Gentler Introduction to Programming](https://www.freecodecamp.org/news/a-gentler-introduction-to-programming-1f57383a1b2c/) - beginner's general overview of programming
-
 [Simple Easy Programming](https://www.tutorialspoint.com/computer_programming/index.htm) - basic programming prerequisites/concepts
 
 [Verify Contract Code on Etherscan](https://medium.com/coinmonks/how-to-verify-and-publish-on-etherscan-52cf25312945)
@@ -59,6 +57,8 @@
 [Contracts Wizard by OpenZeppelin](https://blog.openzeppelin.com/wizard/) - interactive contract generator, based on desired standard (current support for ERC20 and ERC721) and any other parameters and desired features (token name, symbol, premint amount, access control, etc.)
 
 [Solidity Gas Optimization Tips](https://mudit.blog/solidity-gas-optimization-tips/) - tips and tricks to keep gas cost low by Mudit Gupta
+
+[Solidity Bit Magic](https://saxenism.com/web3/solidity/language-tricks/bit-magic/intermediate/2022/09/06/Bit-Magic-Solidity.html) - tips on manipulating bits in Solidity and related gas optimization
 
 [Checklist for Contracts in Solidity](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
 
