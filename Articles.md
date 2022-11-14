@@ -79,3 +79,5 @@
 [Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737) - Brummer & Seira, 2022
 
 [Sufficient Decentralization](https://variant.fund/wp-content/uploads/2022/08/Sufficient-Decentralization-by-Marc-Boiron.pdf) - Boiron, 2022
+
+[The Ineluctable Modality of Securities Law: Why Fungible Crypto Assets Are Not](https://dlxlaw.com/wp-content/uploads/2022/11/The-Ineluctable-Modality-of-Securities-Law-%E2%80%93-DLx-Law-Discussion-Draft-Nov.-10-2022.pdf) - Lewis Rinaudo Cohen, Gregory Strong, Freeman Lewin and Sarah Chen, DLx Law, 2022
