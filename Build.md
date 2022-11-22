@@ -42,8 +42,6 @@
 
 [KnowEthereum](https://knowethereum.com/) - curated resources for the Ethereum ecosystem
 
-[Coursetro](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners) - developing Ethereum smart contracts for beginners
-
 [How to Learn Solidity](https://blockgeeks.com/guides/solidity/) - a step by step tutorial on a demo Solidity dApp by Ryan Molecke
 
 [Solidity Trivia](https://github.com/ajsantander/trivias) - advanced demos and explanations for Solidity trivia shared on twitter via the profile: https://twitter.com/the_ethernaut
@@ -69,23 +67,23 @@
 
 # Repositories and IDEs
 
+[Solbase](https://github.com/Sol-DAO/solbase) - Modern, opinionated, and gas optimized base for smart contract development by SolDAO.
+
+[OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - library of secure, community-vetted solidity contracts
+
 [LexCorpus](https://github.com/lexDAO/LexCorpus) - LexDAO's contract library emphasizing lean code for security and legibility, including adapted standards, [utils](https://github.com/lexDAO/LexCorpus/tree/master/contracts/utils), [conditions](https://github.com/lexDAO/LexCorpus/tree/master/contracts/conditions), [checks](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt) etc.
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
 
-[OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - library of secure, community-vetted solidity contracts
+[Remix](https://remix.ethereum.org/) - Ethereum IDE with plugins and debugging
 
 [Hardhat](https://hardhat.org/) - Ethereum IDE including local Solidity and Typescript support, debugging, and numerous plugins
-
-[Remix](https://remix.ethereum.org/) - Ethereum IDE with plugins and debugging
 
 [Foundry](https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox/) - Ethereum development toolkit by Paradigm, including a Rust reimplementation of [dapptools](https://dapp.tools/) 
 
 [Ethereum Dev Tools](https://github.com/ConsenSys/ethereum-developer-tools-list) - tools, components, patterns, and platforms for developing applications on Ethereum by Consensys
 
 [OpenLaw Library](https://lib.openlaw.io) - free legal agreement templates for smart contract integration via OpenLaw's markup language
-
-[Escrowing ERC20 Tokens](https://p2pmoon.com/escrowing-erc20-tokens-in-solidity-with-remix/) - example ERC20 escrow, uses import rather than interface though
 
 [Web3 Type Converter](https://web3-type-converter.onbrn.com/) - convert from a bytes32/hex into a string/number or vice-versa
 
