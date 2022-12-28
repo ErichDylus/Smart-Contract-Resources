@@ -24,6 +24,8 @@
 
 [solidity-mentorship](https://github.com/alcueca/solidity-mentorship/issues) - use case by use case program to learn solidity by Alberto Cuesta Cañada
 
+[SolidityQuiz.com](https://solidityquiz.com/quiz) - Solidity quiz questions with dropdown options and free response, varying in difficulty from intermediate to expert
+
 [smartcontract.engineer](https://www.smartcontract.engineer/challenges) - individual simple challenges increasing in complexity, with tests and solutions, in Solidity and Vyper
 
 [Learning Solidity Video Tutorials](https://github.com/willitscale/learning-solidity) - list of Solidity Tutorial YouTube videos by Will it Scale
