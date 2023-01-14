@@ -94,7 +94,9 @@
 
 # Security and Audit Tools
 
-[Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) StackExchange list based on community wiki
+[Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) - StackExchange list based on community wiki
+
+[Code4rena Audit Reports](https://code4rena.com/reports/) - code4rena audit reports including findings, code excerpts, and explanations
 
 [OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) - rundowns of past audits conducted by OpenZeppelin
 
