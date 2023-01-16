@@ -94,6 +94,8 @@
 
 # Security and Audit Tools
 
+[Solidity Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - checklist of things to look for when auditing Solidity smart contracts, by tamjid0x01
+
 [Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) - StackExchange list based on community wiki
 
 [Code4rena Audit Reports](https://code4rena.com/reports/) - code4rena audit reports including findings, code excerpts, and explanations
