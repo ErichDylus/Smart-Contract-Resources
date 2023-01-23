@@ -66,14 +66,14 @@
 
 [Blockchain Development Guide / devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) - a public good guide for blockchain development on Ethereum
 
+[Beginner's Guide to Yul](https://coinsbench.com/beginners-guide-to-yul-12a0a18095ef) - beginner's guide to Yul, a form of assembly language inside smart contracts
+
 
 # Repositories and IDEs
 
 [Solbase](https://github.com/Sol-DAO/solbase) - Modern, opinionated, and gas optimized base for smart contract development by SolDAO.
 
 [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - library of secure, community-vetted solidity contracts
-
-[LexCorpus](https://github.com/lexDAO/LexCorpus) - LexDAO's contract library emphasizing lean code for security and legibility, including adapted standards, [utils](https://github.com/lexDAO/LexCorpus/tree/master/contracts/utils), [conditions](https://github.com/lexDAO/LexCorpus/tree/master/contracts/conditions), [checks](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt) etc.
 
 [LexDAO Assets](https://github.com/lexDAO/Assets) - codebases, dApps and other assets maintained by LexDAO
 
