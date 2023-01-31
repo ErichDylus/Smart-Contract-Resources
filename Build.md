@@ -98,6 +98,8 @@
 
 [Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) - StackExchange list based on community wiki
 
+[Solcurity](https://github.com/transmissions11/solcurity) - opinionated security and code quality standard for Solidity smart contracts.
+
 [Code4rena Audit Reports](https://code4rena.com/reports/) - code4rena audit reports including findings, code excerpts, and explanations
 
 [OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) - rundowns of past audits conducted by OpenZeppelin
