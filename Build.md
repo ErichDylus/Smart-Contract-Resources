@@ -62,6 +62,8 @@
 
 [Checklist for Contracts in Solidity](https://github.com/lexDAO/LexCorpus/blob/master/contracts/CHECKS.txt)
 
+[Secureum Epoch 0 Course](https://github.com/x676f64/secureum-mind_map) - Secureum epoch 0 coursework and quizzes with linked content
+
 [Buildspace](https://buildspace.so/) - learn and build web3 projects and earn NFTs 
 
 [Blockchain Development Guide / devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) - a public good guide for blockchain development on Ethereum
@@ -94,6 +96,8 @@
 
 # Security and Audit Tools
 
+[Build Secure Contracts](https://secure-contracts.com/) - Trail of Bits repo on best practices for secure smart contracts
+
 [Solidity Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - checklist of things to look for when auditing Solidity smart contracts, by tamjid0x01
 
 [Security Review Checklist](https://ethereum.stackexchange.com/questions/8551/security-review-checklist-for-a-smart-contract) - StackExchange list based on community wiki
@@ -110,7 +114,7 @@
 
 [Dev Blog Security Recommendations](https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/) - periodic security updates from Consensys as to best practices 
 
-[Slither](https://github.com/crytic/slither) - Solidity static analysis framework -- runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
+[Slither](https://github.com/crytic/slither) - suite of Solidity vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses
 
 [Secure Dev Workflow](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/workflow.md#ask-for-help) - workflow for solidity smart contract security by Crytic
 
