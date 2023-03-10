@@ -59,29 +59,7 @@ The proposed draft UCC Article 12 sets out parameters for a new defined term, "c
 • GDPR: extraterritoriality (the operation of laws outside the boundary of a state or country) may affect an international company that collects data on EU citizens - it is under the same legal obligation it would be if  headquartered in the EU, even without presence there. Generally, Cravath, Swaine & Moore LLP recommends "four guiding principles for entities hosting GDPR‑compliant blockchains: Use a private, permissioned blockchain; avoid, if possible, the storing of personal data on the blockchain; establish a detailed governance framework; and employ innovative solutions to data protection problems." While ongoing security and privacy implementations may invalidate some of these points, they should not be ignored.
 
 Security Token Laws and Regulations
-For any token issuance or transactions through smart contracts that may involved a security changing hands, it is crucial to seek legal advice regarding applicable securities laws and regulations (including but not limited to International, Federal and State jurisdictions) beforehand. Examples of American regulations include:
-
- - Reg D (Private Placement Exemption): "accredited investors" only, as defined by the SEC
-
- - Reg A (Limited Amount Exemption)  non-accredited investors for maximum $50 million 
-
- - Reg S (International Exemption)
-
- - Reg CF (Crowdfunding)
-
-In the EU, token issuers generally have to submit a prospectus and comply with local security laws, except when qualified by certain exceptions, such as:
-
- - Qualified investors’ exemption (private placement): solicit "qualified investors" only for the STO, as defined by EU regulations.
-
- - Large investments exemption: companies may sell their securities freely if every investor buys at least a statutory minimum amount each.
-
- - Limited network exemption: Companies may issue security tokens to up to a certain number of individual people or entities per EU member state without submitting a prospectus.
-
- - Limited amount exemption: companies may sell securities valued up to a certain threshold amount over a one year period without submitting a prospectus.  Individual EU Member States may exempt domestic offers where the total amount offered in the EU is between a certain range of amounts. 
-
-- Growth Prospectus:  starting July 21, 2019, SMEs (companies with a market cap of up to €43 million, turnover of up to €5 million or fewer than 250 employees) and mid-sized companies admitted to an SME Growth Market may use a simplified document when offering securities to the public, provided that their securities are not traded on a regulated market.
-
-When an EU Prospectus is submitted, the PR requires that summaries set out the 15 most material risk factors specific to the issuer, and the guarantor (if applicable). Possible risk factors for token issuers and smart contract-related entities may include errors in code, protocol forks, crypto market volatility, technological obsolescence, and security. It is important to note that civil liability could arise in respect of a summary that is misleading, inaccurate or missing material information when read along with the rest of the prospectus.
+For any token issuance or transactions through smart contracts that may involved a security changing hands, it is crucial to seek legal advice regarding applicable securities laws and regulations (including but not limited to International, Federal and State jurisdictions) beforehand. 
 
 Morrison Cohen's [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471) tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
 
@@ -99,7 +77,7 @@ Decentralized Autonomous Organizations ("[DAO](https://medium.com/@OpenLawOffici
 
 Smart contracts and DAOs present several advantages and possibilities for built-in regulatory compliance, as noted by the U.S. Commodities Futures Trading Commission's LabCFTC: smart contract collateral or proceeds cannot be sold to a non-Eligible Contract Participant (without clear digital forensic evidence on the blockchain), the contract may be coded so the transaction may not occur until the mandated period has passed, and it may incorporate automated reporting of required data or tax payments at pre-determined intervals.
 
-Wyoming has recently codified the recognition of limited liability DAOs, opening the door to further entity process automation: [Forming and Operating a Wyoming DAO LLC](https://dilendorf.com/resources/forming-and-operating-a-wyoming-dao-llc.html) - Dilendorf & Tabba, 2021. However, the implementation is rife with [issues](https://lexnode.substack.com/p/wyomings-legal-dao-saster).
+US states' attempts to codify DAO-like entities (often slightly altered LLC implementations) have so far been rife with [issues](https://lexnode.substack.com/p/wyomings-legal-dao-saster).
 
 [DAO Model Law](https://coala.global/reports/#1623963887316-6ce8de52-e0a0) - A proposed international uniform, model set of rules to provide legal certainty for DAOs and their members and participants by the Coalition of Automated Legal Applications (COALA), 2021
 
