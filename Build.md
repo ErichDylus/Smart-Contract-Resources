@@ -110,6 +110,8 @@
 
 [Re-entrancy Attack History](https://github.com/pcaversaccio/reentrancy-attacks) - documented history of re-entrancy attacks by pcaversaccio
 
+[DeFi Hack Labs](https://github.com/SunWeb3Sec/DeFiHackLabs) - DeFi Hack reproductions, including instructions, by SunWeb3Sec
+
 [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
 
 [Dev Blog Security Recommendations](https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/) - periodic security updates from Consensys as to best practices 
