@@ -16,11 +16,7 @@
 
 [Formal Verification of Smart Contracts](https://dl.acm.org/citation.cfm?id=2993611) - Bhargavan et al., 2016
 
-[Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab](https://eprint.iacr.org/2015/460.pdf) - Delmolino, Kosba, Miller et al., 2016
-
 [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](http://scholar.google.com/scholar_url?url=https://users.soe.ucsc.edu/~owen/courses/cmps223/papers/hawk.pdf&hl=en&sa=X&scisig=AAGBfm0n9U_-YXj7vOAhp9Vi-v7A049K2A&nossl=1&oi=scholarr) - Kosba, Miller, Shi, et. al, 2016
-
-[Blockchains and Smart Contracts for the Internet of Things](https://ieeexplore.ieee.org/abstract/document/7467408) - Christidis, Devetsikiotis , 2016
 
 [Smart Contracts and the Cost of Inflexibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3008899) - Jeremy Sklaroff, 2017
 
@@ -32,13 +28,7 @@
 
 [Smart Contracts: Is the Law Ready?](https://digitalchamber.org/smart-contracts-whitepaper/) -  Chamber of Digital Commerce, 2018
 
-[Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://eprint.iacr.org/2017/1090.pdf) -  Breidenbach, Daian, Tramer, Juels, 2018
-
-[Blockchain Technology Overview](https://www.nist.gov/publications/blockchain-technology-overview) - NIST, 2018
-
 [State Legislator's Toolkit for Blockchain Technology](https://digitalchamber.org/state-legislators-toolkit/) - Chamber of Digital Commerce, 2018
-
-[Blockchain and Trusted Computing: Problems, Pitfalls, and a Solution for Hyperledger Fabric](https://arxiv.org/abs/1805.08541) - Brandenburger et al., 2018
 
 [An Overview of Smart Contract: Architecture, Applications and Future Trends](https://ieeexplore.ieee.org/document/8500488) - Wang, Yuan, Li et. al, 2018
 
@@ -58,8 +48,6 @@
 
 [Defining Decentralization for Law](https://medium.com/@lex_node/defining-decentralization-for-law-58ca54e18b2a) - Shapiro, 2020
 
-[Space Governance 3.0](https://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?article=2489&context=gjicl) - Israel, 2020
-
 [8 Steps to Decentralization](https://medium.com/venture-dao/8-steps-to-decentralization-1822806e2d54) - VentureDAO, 2020
 
 [Dispute Resolution: the Kleros Handbook to Decentralized Justice](https://kleros.io/en/book/) - Ast, George et al, 2020
@@ -72,8 +60,6 @@
 
 [Tokenized: The Law of Non-Fungible Tokens and Unique Digital Property](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3821102) - Fairfield, 2021
 
-[Flavours of On-Chain SVG NFTs on Ethereum](https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum) - de la Rouviere, 2021
-
 [The Limits of Code Deference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889630) - Hinkes, 2021
 
 [Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737) - Brummer & Seira, 2022
@@ -81,3 +67,5 @@
 [Sufficient Decentralization](https://variant.fund/wp-content/uploads/2022/08/Sufficient-Decentralization-by-Marc-Boiron.pdf) - Boiron, 2022
 
 [The Ineluctable Modality of Securities Law: Why Fungible Crypto Assets Are Not](https://dlxlaw.com/wp-content/uploads/2022/11/The-Ineluctable-Modality-of-Securities-Law-%E2%80%93-DLx-Law-Discussion-Draft-Nov.-10-2022.pdf) - Lewis Rinaudo Cohen, Gregory Strong, Freeman Lewin and Sarah Chen, DLx Law, 2022
+
+[Assimilating the BORG: A New Framework for CryptoLaw Entities](https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83) - Delphi Labs, 2023
