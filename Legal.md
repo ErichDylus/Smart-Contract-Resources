@@ -2,7 +2,7 @@
 
 [the cod3x](https://www.thecod3x.com/) - cryptolaw treatise and reference aggregator
 
-[LexDAO's Lex Corpus](https://github.com/lexDAO/LexCorpus) - contract library for legal engineering
+[LexDAO's Lex Corpus](https://github.com/lexDAO/LexCorpus/tree/master/contracts/legal) - contract library for legal engineering
 
 [lex_node's Cryptolaw Emporium](https://github.com/lex-node/lex_node_cryptoLaw_emporium)
 
@@ -10,22 +10,20 @@
 
 [Open Source Law Repo](https://github.com/ErichDylus/Open-Source-Law) - open source templates, forms, and other materials for DAOs, devs, and incentive programmers
 
-[Blockchain 2022](https://gpg-pdf.chambers.com/view/171805341/1/) - DLx Law-edited guide to blockchain and cryptocurrency law and regulation in 20 jurisdictions
+[Blockchain 2023](https://practiceguides.chambers.com/practice-guides/blockchain-2023/) - DLx Law-edited guide to blockchain and cryptocurrency law and regulation in 22 jurisdictions
 
 [Buzko DAO Legal Canon](https://www.buzko.legal/dao-legal-canon) - living list of publications and other content relating to legal aspects of DAOs
 
-# Smart Contracts v. Traditional Contracts
+# Legal Contract Formation
 Smart/Ricardian contracts and traditional, written contracts may be used together to provide an optimized level of security and efficiency in enforceability, while leaving flexibility for sensitive "meatspace" terms and mutual amendments in the parties' preferences. 
 
- •  if a participant is able to execute a smart contract through its construction, this could be deemed an offer; if the smart contract is sent to a counterparty directly, that smart contract likely constitutes an offer solely to that counterparty; 
+ •  if a participant is able to execute a smart contract through its construction, this could be deemed an offer; if the smart contract is executable only by a specific address, that smart contract could constitute an offer solely to that counterparty; 
 
- •  by signing their private signature to the smart contract, the counterparty has effectively given acceptance to the agreement; and 
+ •  by signing a message with their private signature or directly calling a function in a smart contract, the counterparty may have provided acceptance; and 
 
  •  the element of consideration may be satisfied provided each party in the smart contract exchanges some form of value.
 
-Depending on numerous factors, there may be elements of direct [legal contract formation in smart contracts](https://lexdao.substack.com/p/legal-contract-formation-in-smart) by the Solidity code's construction, intended interactions, etc. 
-
-Governance and Dispute Resolution in blockchain-native entities are constantly iterating. [Kleros](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf) and others seek to establish frameworks for decentralized justice, and generally dispute resolution is being researched to [bridge the governance gap](http://www3.weforum.org/docs/WEF_WP_Dispute_Resolution_for_Blockchain_2020.pdf). 
+Depending on numerous factors, there may be elements of direct [legal contract formation in smart contracts](https://lexdao.substack.com/p/legal-contract-formation-in-smart) by the code's construction, intended interactions, etc. 
 
 
 ## "Code is Law" v. Code Deference 
@@ -44,13 +42,9 @@ It is imperative to consult local counsel for the jurisdiction or jurisdictions 
 
 The proposed draft UCC Article 12 sets out parameters for a new defined term, "controllable electronic record(s)" ("CER"), which intends to provide the legal rules governing the transfer—both outright and for security—of interests in some, but not all, electronic records (controllable electronic records - designed to encompass many types of digital assets). The Article 12 rules specify the rights in a CER that a purchaser would acquire, and would make CER negotiable, in the sense that a good faith purchaser for value would take a CER free of third-party claims of a property interest in the CER.
 
-• The US's 21st Century IDEA Act (Integrated Digital Experience Act) establishes deadlines for federal government agencies to provide mobile and accessible versions of their websites, digital forms and services, and electronic signatures, greatly streamlining potential integration into smart contract processes.
-
 • Commodity Exchange Act and U.S. SEC and CFTC regulations may apply to digital currency transfers and purchases via smart contracts.
 
 • The Bank Secrecy Act, the Patriot Act, and other Anti-Money Laundering and Money Transmission laws and regulations are imperative US laws to follow in remittance of cryptocurrencies and/or fiat currencies through public blockchain technologies and in determining KYC requirements. 
-
-• [0x Legal Wiki and Library](https://0x.org/wiki#Legal-Wiki) provides useful US law resources especially applicable to exchanges and DEXs, but also for OFAC and AML concerns 
 
 • Tax laws and regulations (International treaties, Federal, State, and local) must always be addressed in transfers of value. NFTs may present some novel tax quandaries, as noted [in this article by Jason Schwartz](https://www.friedfrank.com/siteFiles/Publications/Non-Fungible%20Tokens%20_%20Decentralized%20Law%20-%20BanklessDAO.pdf)
 
@@ -64,18 +58,14 @@ For any token issuance or transactions through smart contracts that may involved
 Morrison Cohen's [Cryptocurrency Litigation Tracker](https://www.morrisoncohen.com/news-page?itemid=471) tracks SEC, CFTC, and criminal litigation; other public regulatory proceedings and summary orders; class action and private litigation; and major pronouncements by U.S. regulators about cryptocurrency. 
 
 # Digital Signatures and Click-Wrap Transactions
-Courts have already looked upon digital signatures and click-wrap agreements with overwhelming favor, and smart contracts in their simplest form are likely to be viewed as a natural extension. Some examples of favorable statutory precedent are UETA and the E-Sign Act. Questions of a contract's enforceability or whether a contract has actually been executed typically fall within the purview of common law (where applicable) and thus are subject to numerous potential interpretations, especially in instances where jurisdiction is uncertain due to the distributed/decentralized nature of smart contracts.
+Questions of a contract's enforceability or whether a contract has actually been executed typically fall within the purview of common law (where applicable) and thus are subject to numerous potential interpretations, especially in instances where jurisdiction is uncertain due to the distributed/decentralized nature of smart contracts.
 
-Digital signatures utilizing DLT or in a blockchain context do not yet have meaningful judicial precedent. However, a signature under public key encryption is likely to follow the same evaluations as a simple e-signature (such as a digitally signed PDF or merely an email with a designated name): did the signer actually execute, and did the signed have the intention to do so, the capability to do so, and the authority to do so?
-
-## Arbitration, Dispute Resolution, and Litigation
-Smart contracts, or traditional contracts leveraging smart contract technology for certain terms or conditions therein, may integrate any traditional jurisdictional or dispute settlement clauses. However, Blockchain-based arbitration may present some interesting legal intricacies when the points to be arbitrated are non-binary or non-discrete, or in the instance of mistaken award. 
-
+A private key signature's enforceability considerations are in many respects analogous to a simple e-signature (such as a digitally signed PDF or merely an email with a designated name): did the signer actually execute, and did the signed have the intention to do so, the capability to do so, and the authority to do so?
 
 ## DAOs and Legal Entity Wrappers
-Decentralized Autonomous Organizations ("[DAO](https://medium.com/@OpenLawOfficial/the-era-of-legally-compliant-daos-491edf88fed0)s") are decentralized, "headless" entities which rely on smart contracts to automate certain operations, governance, and behavior. This reduces overhead, permits greater organizational transparency, and tightens internal controls. DAOs effectively decentralize identifying aspects of traditional entities such as jurisdiction of organization, principal place of business, and raise novel concerns in liability apportionment-- as such, regulatory compliance of DAOs, especially in the U.S., is tricky. LexDAO is a legal engineer club building web3.0 legal assets and code, such as escrow and dispute resolution, powered by Ethereum transactional scripts via an Aragon DAO. ZeroLaw LLC is undertaking to refine a model [DAO charter](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md) for DAOs wishing to function as unincorporated associations. DAOs often create a corresponding "legal wrapper" meatspace entity in order to interact with traditional entities in meatspace contracts and generally soak up liability.
+Decentralized Autonomous Organizations ("[DAO](https://medium.com/@OpenLawOfficial/the-era-of-legally-compliant-daos-491edf88fed0)s") are decentralized, "headless" entities which rely on smart contracts to automate certain operations, governance, and behavior. This can reduce overhead, permit greater organizational transparency, and ease and automate capital apportionment. Some DAOs enable on-chain accession to off-chain guidelines or rules, such as constitutions or [charters](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md) for DAOs wishing to function as unincorporated associations. DAOs often have a related "legal wrapper" meatspace entity in order to interact with traditional entities in meatspace contracts and generally approach certain types of liability.
 
-Smart contracts and DAOs present several advantages and possibilities for built-in regulatory compliance, as noted by the U.S. Commodities Futures Trading Commission's LabCFTC: smart contract collateral or proceeds cannot be sold to a non-Eligible Contract Participant (without clear digital forensic evidence on the blockchain), the contract may be coded so the transaction may not occur until the mandated period has passed, and it may incorporate automated reporting of required data or tax payments at pre-determined intervals.
+Smart contracts and DAOs present several advantages and possibilities for built-in regulatory compliance, such as automated reporting of required data or tax payments at pre-determined intervals or encoded transfer restrictions.
 
 US states' attempts to codify DAO-like entities (often slightly altered LLC implementations) have so far been rife with [issues](https://lexnode.substack.com/p/wyomings-legal-dao-saster).
 
@@ -85,7 +75,7 @@ US states' attempts to codify DAO-like entities (often slightly altered LLC impl
 
 [LexDAO](https://github.com/lexDAO/LexCorpus/blob/master/contracts/legal/dao/membership/TUNAA.md) and [a16z](https://a16z.com/wp-content/uploads/2021/10/DAO-Legal-Framework-Jennings-Kerr10.19.21-Final.pdf) have penned materials on using Unincorporated Nonprofit Associations and hybrid structures as DAO legal wrappers, with a16z following up with a detailed [Part II](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf) on entity selection frameworks. [Paradigm](https://daos.paradigm.xyz/) has also created an entity wrapper comparison matrix comparing features and liability vectors. Both a16z's and Paradigm's analyses are from primarily American perspectives.
 
-[Foundations](https://medium.com/@erich.dylus/api3-year-0-wrapped-dao-and-legal-structure-37132af2776b) initiated by guarantee rather than share capital are a popular choice as a DAO legal wrapper, obviating the need for shareholders or members, often in tax-advantaged jurisdictions. Limitations arise in VASP-related activities, fiduciary checks, and other areas that are best discussed with local counsel.
+[Foundations](https://medium.com/@erich.dylus/api3-year-0-wrapped-dao-and-legal-structure-37132af2776b) initiated by guarantee rather than share capital are a popular choice as a DAO-adjacent legal entity, obviating the need for shareholders or members, often in tax-advantaged jurisdictions. Limitations arise in VASP-related activities, fiduciary checks, and other areas that are best discussed with local counsel.
 
 [Cooperatives](https://thedefiant.io/solving-the-riddle-of-the-dao-with-colorados-cooperative-laws/) are also gaining traction as legal wrappers for certain types of DAOs as distributions may be made by measure of DAO contributors' patronage, though registration and collection of member personal information for tax purposes is likely unavoidable for US-based cooperatives. 
 
