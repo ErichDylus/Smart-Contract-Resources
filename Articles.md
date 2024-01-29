@@ -26,8 +26,6 @@
 
 [Blockchain-based Smart Contracts: A Systematic Mapping Study](https://arxiv.org/abs/1710.06372) - Alharby, van Moorsel, 2017
 
-[Smart Contracts: Is the Law Ready?](https://digitalchamber.org/smart-contracts-whitepaper/) -  Chamber of Digital Commerce, 2018
-
 [State Legislator's Toolkit for Blockchain Technology](https://digitalchamber.org/state-legislators-toolkit/) - Chamber of Digital Commerce, 2018
 
 [An Overview of Smart Contract: Architecture, Applications and Future Trends](https://ieeexplore.ieee.org/document/8500488) - Wang, Yuan, Li et. al, 2018
@@ -69,3 +67,5 @@
 [The Ineluctable Modality of Securities Law: Why Fungible Crypto Assets Are Not](https://dlxlaw.com/wp-content/uploads/2022/11/The-Ineluctable-Modality-of-Securities-Law-%E2%80%93-DLx-Law-Discussion-Draft-Nov.-10-2022.pdf) - Lewis Rinaudo Cohen, Gregory Strong, Freeman Lewin and Sarah Chen, DLx Law, 2022
 
 [Assimilating the BORG: A New Framework for CryptoLaw Entities](https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83) - Delphi Labs, 2023
+
+[Aligning ‘Decentralized Autonomous Organization’ to Precedents in Cybernetics](https://law.mit.edu/pub/dao-precedents-cybernetics/release/1) - Zargham and Nabben, 2023
