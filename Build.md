@@ -10,6 +10,8 @@
 
 [lil-web3](https://github.com/m1guelpf/lil-web3) - simple, intentionally-limited versions of web3 protocols & apps to better understand how they work, by Miguel Piedrafita
 
+[Swiss-Knife.xyz](https://swiss-knife.xyz/) - collection of useful EVM tools, converters, and constants for easy reference
+
 [DeveloperDAO Knowledge Base](https://github.com/Developer-DAO/resources) - repository with web3 development resources by Developer DAO
 
 [DeFi Developer Roadmap by Officer CIA](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - curated DeFi development & general blockchain research and tools
@@ -119,5 +121,3 @@
 [Secure Dev Workflow](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/workflow.md#ask-for-help) - workflow for solidity smart contract security by Crytic
 
 [MythX Security Analysis Tool](https://github.com/dmuhs/mythx-cli) - security analysis API to create purpose-built security tools for smart contract developers
-
-[Solidify](https://blog.coinbase.com/introducing-solidify-a-tool-to-automatically-detect-and-classify-smart-contract-security-risks-73a1338fdbbe) - *coming soon* tool from Coinbase to automatically detect and classify smart contract security risks
